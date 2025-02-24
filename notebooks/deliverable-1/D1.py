@@ -527,3 +527,9 @@ plt.show()
 # saving to a new file 
 df.to_csv('C:/Users/Katerina/Team2 Project/Team-2-Project/data/df_eda.csv', index=False)
 
+
+# In[59]:
+
+
+get_ipython().system('jupyter nbconvert --to script D1.ipynb')
+
