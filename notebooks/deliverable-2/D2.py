@@ -22,7 +22,14 @@
 
 # ## Import dataset and libraries
 
-# In[164]:
+# In[22]:
+
+
+get_ipython().system('pip install plotly')
+get_ipython().system('pip install -U nbformat==4.2.0')
+
+
+# In[3]:
 
 
 import pandas as pd
@@ -31,11 +38,13 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import IsolationForest
 import plotly.express as px
-file_path = 'C:/Users/Katerina/Team2 Project/Team-2-Project/data/df_eda.csv'
+import os
+nb_path = os.path.abspath('')
+file_path = os.path.join(nb_path, '../../data/df_eda.csv')
 df = pd.read_csv(file_path)
 
 
-# In[165]:
+# In[23]:
 
 
 df
@@ -43,7 +52,7 @@ df
 
 # ## Handling missing values & scaling the data 
 
-# In[167]:
+# In[24]:
 
 
 missing_values = df.isnull().sum()
@@ -57,7 +66,7 @@ missing_values
 
 # ### Dropping mpg N/As
 
-# In[170]:
+# In[25]:
 
 
 # Drop rows where 'mpg' is missing
@@ -69,7 +78,7 @@ df = df.dropna(subset=['mpg'])
 
 # For each car with a missing hp value find a similar car and use its hp value. To find the similar car, first scale the data, then for every missing hp car, substract its feature values from all other cars' respective feature values. keep the absolute value of the substraction (distance) and for each car create a score by suming all feature distances. The car with the lowest score is the most similar car to the one in question. Fill the missing hp value with the one of the most similar car  
 
-# In[173]:
+# In[26]:
 
 
 # Scale features 
@@ -81,7 +90,7 @@ df_scaled.head()
 df_scaled.loc[[38, 75]]
 
 
-# In[174]:
+# In[8]:
 
 
 # Define the function to find the most similar car and impute missing values
@@ -126,7 +135,7 @@ df_scaled[['horsepower']]
 df_scaled.head()
 
 
-# In[175]:
+# In[9]:
 
 
 df_scaled.isnull().sum()
@@ -142,7 +151,7 @@ df_scaled.isnull().sum()
 # 
 # 
 
-# In[178]:
+# In[10]:
 
 
 # Define columns to use for outlier detection
@@ -181,7 +190,7 @@ fig.show()
 
 # ### Visualise mutlivariate outliers by projecting dataset in a 2dimensional space using PCA
 
-# In[180]:
+# In[29]:
 
 
 from sklearn.decomposition import PCA
@@ -190,13 +199,13 @@ pca_result = pca.fit_transform(df_scaled[columns])
 sns.scatterplot(x=pca_result[:, 0], y=pca_result[:, 1], hue=df_scaled['multivariate_outlier'])
 
 
-# In[181]:
+# In[28]:
 
 
 df_scaled
 
 
-# In[182]:
+# In[30]:
 
 
 # Get indices of multivariate outliers and compare them to feature outliers
@@ -216,7 +225,7 @@ print ("Indices of outliers:", outliers)
 
 # ### Drop multivariate & feature outliers
 
-# In[184]:
+# In[14]:
 
 
 # Drop the combined outliers from the dataset
@@ -229,7 +238,7 @@ print(f"Cleaned Dataset Shape: {df_scaled_cleaned.shape}")
 
 # ## Encoding categorical features
 
-# In[186]:
+# In[15]:
 
 
 from sklearn.preprocessing import LabelEncoder
@@ -241,7 +250,7 @@ df_scaled_cleaned['car_name_encoded'] = label_encoder.fit_transform(df_scaled_cl
 print(df_scaled_cleaned[['car brand', 'car_name_encoded']])
 
 
-# In[187]:
+# In[16]:
 
 
 # Display the mapping of numbers to car brands
@@ -253,7 +262,7 @@ for brand, number in mapping.items():
 
 # Note: we now have 28 car brands instead of 30 since one was dropped as an outlier (hi) and an other as a missing mpg value(citroen)
 
-# In[189]:
+# In[17]:
 
 
 #cleand but not scaled dataset
@@ -265,13 +274,13 @@ df_cleaned = df_scaled_cleaned.copy()
 df_cleaned[features_to_scale] = scaler.inverse_transform(df_scaled_cleaned[features_to_scale])
 
 
-# In[190]:
+# In[18]:
 
 
 df_cleaned
 
 
-# In[191]:
+# In[19]:
 
 
 #sorting by mpg values
@@ -293,14 +302,14 @@ print("\nLabel distribution:")
 print(distribution)
 
 
-# In[192]:
+# In[20]:
 
 
 # Save the reverted dataset
-df_cleaned.to_csv('C:/Users/Katerina/Team2 Project/Team-2-Project/data/df_cleaned.csv', index=False)
+df_cleaned.to_csv(os.path.join(nb_path, '../../data/df_cleaned.csv'), index=False)
 
 
-# In[193]:
+# In[21]:
 
 
 get_ipython().system('jupyter nbconvert --to script D2.ipynb')
