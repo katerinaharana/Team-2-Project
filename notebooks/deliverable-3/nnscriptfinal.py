@@ -27,7 +27,7 @@ def set_seeds(seed=42):
     torch.cuda.manual_seed_all(seed)
 set_seeds(42)
 
-# load dataset
+#load dataset
 data = pd.read_csv('/Users/ioannakaragianni/Desktop/WELEAD Bootcamp Project/final/final_labeled_mpg_unscaled.csv')
 
 # features selected based on correlation - our input
