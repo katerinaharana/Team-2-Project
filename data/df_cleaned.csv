@@ -7,7 +7,6 @@ mpg,cylinders,displayments,horsepower,weight,acceleration,model year,origin,car 
 15.0,8.0,429.0,198.0,4341.0,10.0,70,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10
 15.0,8.0,390.0,190.0,3850.0,8.5,70,1,amc ambassador dpl,Normal,amc,ambassador dpl,1,Normal,0
 15.0,8.0,383.0,170.0,3563.0,10.0,70,1,dodge challenger se,Normal,dodge,challenger se,1,Normal,8
-14.0,8.0,340.0,160.0,3609.0,8.0,70,1,plymouth 'cuda 340,Outlier,plymouth,'cuda 340,1,Normal,19
 15.0,8.0,400.0,150.0,3761.0,9.5,70,1,chevrolet monte carlo,Normal,chevrolet,monte carlo,1,Normal,5
 24.0,4.0,113.0,95.0,2372.0,15.0,70,3,toyota corona mark ii,Normal,toyota,corona mark ii,1,Normal,24
 22.0,6.0,198.0,95.0,2833.0,15.5,70,1,plymouth duster,Normal,plymouth,duster,1,Normal,19
@@ -51,7 +50,6 @@ mpg,cylinders,displayments,horsepower,weight,acceleration,model year,origin,car 
 26.0,4.0,91.0,70.0,1955.0,20.5,71,1,plymouth cricket,Normal,plymouth,cricket,1,Normal,19
 24.0,4.0,113.0,95.0,2278.0,15.5,72,3,toyota corona hardtop,Normal,toyota,corona hardtop,1,Normal,24
 25.0,4.0,97.5,80.0,2126.0,17.0,72,1,dodge colt hardtop,Normal,dodge,colt hardtop,1,Normal,8
-23.0,4.0,97.0,54.0,2254.0,23.5,72,2,volkswagen type 3,Outlier,volkswagen,type 3,1,Normal,26
 20.0,4.0,140.0,90.0,2408.0,19.5,72,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5
 21.0,4.0,122.0,86.0,2226.0,16.5,72,1,ford pinto runabout,Normal,ford,pinto runabout,1,Normal,10
 13.0,8.0,350.0,165.0,4274.0,12.0,72,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5
@@ -306,7 +304,6 @@ mpg,cylinders,displayments,horsepower,weight,acceleration,model year,origin,car 
 31.3,4.0,120.0,75.0,2542.0,17.5,80,3,mazda 626,Normal,mazda,626,1,Normal,12
 37.0,4.0,119.0,92.0,2434.0,15.0,80,3,datsun 510 hatchback,Normal,datsun,510 hatchback,1,Normal,7
 32.2,4.0,108.0,75.0,2265.0,15.2,80,3,toyota corolla,Normal,toyota,corolla,1,Normal,24
-46.6,4.0,85.99999999999999,65.0,2110.0,17.9,80,3,mazda glc,Outlier,mazda,glc,1,Normal,12
 27.9,4.0,156.0,105.0,2800.0,14.4,80,1,dodge colt,Normal,dodge,colt,1,Normal,8
 40.8,4.0,85.00000000000001,65.0,2110.0,19.2,80,3,datsun 210,Normal,datsun,210,1,Normal,7
 44.3,4.0,90.0,48.0,2085.0,21.7,80,2,vw rabbit c (diesel),Normal,volkswagen,rabbit c (diesel),1,Normal,26
