@@ -1,376 +1,376 @@
-mpg,cylinders,displayments,horsepower,weight,acceleration,model year,origin,car name,outlier,car brand,model,anomaly_score,multivariate_outlier,car_name_encoded,mpg_classes
-11.0,8.0,350.0,180.0,3664.0,11.0,73,1,oldsmobile omega,Normal,oldsmobile,omega,1,Normal,16,0
-11.0,8.0,400.0,150.0,4997.0,14.0,73,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
-11.0,8.0,318.0,210.0,4382.0,13.5,70,1,dodge d200,Normal,dodge,d200,1,Normal,8,0
-12.0,8.0,350.0,180.0,4499.0,12.5,73,1,oldsmobile vista cruiser,Normal,oldsmobile,vista cruiser,1,Normal,16,0
-12.0,8.0,400.0,167.0,4906.0,12.5,73,1,ford country,Normal,ford,country,1,Normal,10,0
-12.0,8.0,383.0,180.0,4955.0,11.5,71,1,dodge monaco (sw),Normal,dodge,monaco (sw),1,Normal,8,0
-12.0,8.0,350.0,160.0,4456.0,13.5,72,1,oldsmobile delta 88 royale,Normal,oldsmobile,delta 88 royale,1,Normal,16,0
-13.0,8.0,302.0,129.0,3169.0,12.0,75,1,ford mustang ii,Normal,ford,mustang ii,1,Normal,10,0
-13.0,8.0,307.0,130.0,4098.0,14.0,72,1,chevrolet chevelle concours (sw),Normal,chevrolet,chevelle concours (sw),1,Normal,5,0
-13.0,8.0,302.0,140.0,4294.0,16.0,72,1,ford gran torino (sw),Normal,ford,gran torino (sw),1,Normal,10,0
-13.0,8.0,350.0,165.0,4274.0,12.0,72,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
-13.0,8.0,400.0,170.0,4746.0,12.0,71,1,ford country squire (sw),Normal,ford,country squire (sw),1,Normal,10,0
-13.0,8.0,400.0,175.0,5140.0,12.0,71,1,pontiac safari (sw),Normal,pontiac,safari (sw),1,Normal,20,0
-13.0,8.0,318.0,150.0,3755.0,14.0,76,1,dodge d100,Normal,dodge,d100,1,Normal,8,0
-13.0,8.0,302.0,130.0,3870.0,15.0,76,1,ford f108,Normal,ford,f108,1,Normal,10,0
-13.0,8.0,350.0,175.0,4100.0,13.0,73,1,buick century 350,Normal,buick,century 350,1,Normal,3,0
-13.0,8.0,350.0,145.0,3988.0,13.0,73,1,chevrolet malibu,Normal,chevrolet,malibu,1,Normal,5,0
-13.0,8.0,400.0,190.0,4422.0,12.5,72,1,chrysler newport royal,Normal,chrysler,newport royal,1,Normal,6,0
-13.0,8.0,350.0,155.0,4502.0,13.5,72,1,buick lesabre custom,Normal,buick,lesabre custom,1,Normal,3,0
-13.0,8.0,400.0,150.0,4464.0,12.0,73,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
-13.0,8.0,351.0,158.0,4363.0,13.0,73,1,ford ltd,Normal,ford,ltd,1,Normal,10,0
-13.0,8.0,318.0,150.0,3940.0,13.2,76,1,plymouth volare premier v8,Normal,plymouth,volare premier v8,1,Normal,19,0
-13.0,8.0,360.0,175.0,3821.0,11.0,73,1,amc ambassador brougham,Normal,amc,ambassador brougham,1,Normal,0,0
-13.0,8.0,350.0,150.0,4699.0,14.5,74,1,buick century luxus (sw),Normal,buick,century luxus (sw),1,Normal,3,0
-13.0,8.0,360.0,170.0,4654.0,13.0,73,1,plymouth custom suburb,Normal,plymouth,custom suburb,1,Normal,19,0
-13.0,8.0,350.0,145.0,4055.0,12.0,76,1,chevy c10,Normal,chevrolet,c10,1,Normal,5,0
-14.0,8.0,351.0,153.0,4129.0,13.0,72,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
-14.0,8.0,318.0,150.0,4096.0,13.0,71,1,plymouth fury iii,Normal,plymouth,fury iii,1,Normal,19,0
-14.0,8.0,400.0,175.0,4385.0,12.0,72,1,pontiac catalina,Normal,pontiac,catalina,1,Normal,20,0
-14.0,8.0,351.0,153.0,4154.0,13.5,71,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
-14.0,8.0,400.0,175.0,4464.0,11.5,71,1,pontiac catalina brougham,Normal,pontiac,catalina brougham,1,Normal,20,0
-14.0,8.0,351.0,148.0,4657.0,13.5,75,1,ford ltd,Normal,ford,ltd,1,Normal,10,0
-14.0,8.0,302.0,137.0,4042.0,14.5,73,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
-14.0,8.0,318.0,150.0,4077.0,14.0,72,1,plymouth satellite custom (sw),Normal,plymouth,satellite custom (sw),1,Normal,19,0
-14.0,8.0,304.0,150.0,4257.0,15.5,74,1,amc matador (sw),Normal,amc,matador (sw),1,Normal,0,0
-14.0,8.0,302.0,140.0,4638.0,16.0,74,1,ford gran torino (sw),Normal,ford,gran torino (sw),1,Normal,10,0
-14.0,8.0,304.0,150.0,3672.0,11.5,73,1,amc matador,Normal,amc,matador,1,Normal,0,0
-14.0,8.0,350.0,165.0,4209.0,12.0,71,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
-14.0,8.0,318.0,150.0,4457.0,13.5,74,1,dodge coronet custom (sw),Normal,dodge,coronet custom (sw),1,Normal,8,0
-14.0,8.0,318.0,150.0,4237.0,14.5,73,1,plymouth fury gran sedan,Normal,plymouth,fury gran sedan,1,Normal,19,0
-14.5,8.0,351.0,152.0,4215.0,12.8,76,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
-15.0,6.0,250.0,100.0,3336.0,17.0,74,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,0
-15.0,8.0,318.0,150.0,4135.0,13.5,72,1,plymouth fury iii,Normal,plymouth,fury iii,1,Normal,19,0
-15.0,8.0,304.0,150.0,3892.0,12.5,72,1,amc matador (sw),Normal,amc,matador (sw),1,Normal,0,0
-15.0,6.0,250.0,72.0,3432.0,21.0,75,1,mercury monarch,Normal,mercury,monarch,1,Normal,14,0
-15.0,6.0,250.0,72.0,3158.0,19.5,75,1,ford maverick,Normal,ford,maverick,1,Normal,10,0
-15.0,8.0,350.0,145.0,4440.0,14.0,75,1,chevrolet bel air,Normal,chevrolet,bel air,1,Normal,5,0
-15.0,8.0,318.0,150.0,3777.0,12.5,73,1,dodge coronet custom,Normal,dodge,coronet custom,1,Normal,8,0
-15.0,6.0,258.0,110.0,3730.0,19.0,75,1,amc matador,Normal,amc,matador,1,Normal,0,0
-15.0,8.0,350.0,145.0,4082.0,13.0,73,1,chevrolet monte carlo s,Normal,chevrolet,monte carlo s,1,Normal,5,0
-15.0,8.0,302.0,130.0,4295.0,14.9,77,1,mercury cougar brougham,Normal,mercury,cougar brougham,1,Normal,14,0
-15.0,8.0,350.0,165.0,3693.0,11.5,70,1,buick skylark 320,Normal,buick,skylark 320,1,Normal,3,0
-15.0,8.0,400.0,150.0,3761.0,9.5,70,1,chevrolet monte carlo,Normal,chevrolet,monte carlo,1,Normal,5,0
-15.0,8.0,383.0,170.0,3563.0,10.0,70,1,dodge challenger se,Normal,dodge,challenger se,1,Normal,8,0
-15.0,8.0,429.0,198.0,4341.0,10.0,70,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
-15.0,8.0,390.0,190.0,3850.0,8.5,70,1,amc ambassador dpl,Normal,amc,ambassador dpl,1,Normal,0,0
-15.0,8.0,318.0,150.0,3399.0,11.0,73,1,dodge dart custom,Normal,dodge,dart custom,1,Normal,8,0
-15.5,8.0,350.0,170.0,4165.0,11.4,77,1,chevrolet monte carlo landau,Normal,chevrolet,monte carlo landau,1,Normal,5,0
-15.5,8.0,400.0,190.0,4325.0,12.2,77,1,chrysler cordoba,Normal,chrysler,cordoba,1,Normal,6,0
-15.5,8.0,304.0,120.0,3962.0,13.9,76,1,amc matador,Normal,amc,matador,1,Normal,0,0
-15.5,8.0,351.0,142.0,4054.0,14.3,79,1,ford country squire (sw),Normal,ford,country squire (sw),1,Normal,10,0
-15.5,8.0,318.0,145.0,4140.0,13.7,77,1,dodge monaco brougham,Normal,dodge,monaco brougham,1,Normal,8,0
-16.0,6.0,258.0,110.0,3632.0,18.0,74,1,amc matador,Normal,amc,matador,1,Normal,0,0
-16.0,8.0,400.0,180.0,4220.0,11.1,77,1,pontiac grand prix lj,Normal,pontiac,grand prix lj,1,Normal,20,0
-16.0,8.0,400.0,170.0,4668.0,11.5,75,1,pontiac catalina,Normal,pontiac,catalina,1,Normal,20,0
-16.0,8.0,302.0,140.0,4141.0,14.0,74,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
-16.0,8.0,351.0,149.0,4335.0,14.5,77,1,ford thunderbird,Normal,ford,thunderbird,1,Normal,10,0
-16.0,8.0,318.0,150.0,4498.0,14.5,75,1,plymouth grand fury,Normal,plymouth,grand fury,1,Normal,19,0
-16.0,8.0,318.0,150.0,4190.0,13.0,76,1,dodge coronet brougham,Normal,dodge,coronet brougham,1,Normal,8,0
-16.0,6.0,250.0,105.0,3897.0,18.5,75,1,chevroelt chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
-16.0,6.0,250.0,100.0,3781.0,17.0,74,1,chevrolet chevelle malibu classic,Normal,chevrolet,chevelle malibu classic,1,Normal,5,0
-16.0,6.0,225.0,105.0,3439.0,15.5,71,1,plymouth satellite custom,Normal,plymouth,satellite custom,1,Normal,19,0
-16.0,8.0,304.0,150.0,3433.0,12.0,70,1,amc rebel sst,Normal,amc,rebel sst,1,Normal,0,0
-16.0,6.0,250.0,100.0,3278.0,18.0,73,1,chevrolet nova custom,Normal,chevrolet,nova custom,1,Normal,5,0
-16.2,6.0,163.0,133.0,3410.0,15.8,78,2,peugeot 604sl,Normal,peugeot,604sl,1,Normal,18,0
-16.5,8.0,350.0,180.0,4380.0,12.1,76,1,cadillac seville,Normal,cadillac,seville,1,Normal,4,0
-16.5,8.0,351.0,138.0,3955.0,13.2,79,1,mercury grand marquis,Normal,mercury,grand marquis,1,Normal,14,0
-16.5,6.0,168.0,120.0,3820.0,16.7,76,2,mercedes-benz 280s,Normal,mercedes,280s,1,Normal,13,0
-16.9,8.0,350.0,155.0,4360.0,14.9,79,1,buick estate wagon (sw),Normal,buick,estate wagon (sw),1,Normal,3,0
-17.0,8.0,304.0,150.0,3672.0,11.5,72,1,amc ambassador sst,Normal,amc,ambassador sst,1,Normal,0,0
-17.0,8.0,302.0,140.0,3449.0,10.5,70,1,ford torino,Normal,ford,torino,1,Normal,10,0
-17.0,6.0,163.0,125.0,3140.0,13.6,78,2,volvo 264gl,Normal,volvo,264gl,1,Normal,27,0
-17.0,8.0,305.0,130.0,3840.0,15.4,79,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
-17.0,6.0,231.0,110.0,3907.0,21.0,75,1,buick century,Normal,buick,century,1,Normal,3,0
-17.0,8.0,260.0,110.0,4060.0,19.0,77,1,oldsmobile cutlass supreme,Normal,oldsmobile,cutlass supreme,1,Normal,16,0
-17.0,6.0,250.0,100.0,3329.0,15.5,71,1,chevrolet chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
-17.5,6.0,258.0,95.0,3193.0,17.8,76,1,amc pacer d/l,Normal,amc,pacer d/l,1,Normal,0,0
-17.5,8.0,318.0,140.0,4080.0,13.7,78,1,dodge magnum xe,Normal,dodge,magnum xe,1,Normal,8,0
-17.5,6.0,250.0,110.0,3520.0,16.4,77,1,chevrolet concours,Normal,chevrolet,concours,1,Normal,5,0
-17.5,8.0,305.0,145.0,3880.0,12.5,77,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
-17.5,8.0,305.0,140.0,4215.0,13.0,76,1,chevrolet chevelle malibu classic,Normal,chevrolet,chevelle malibu classic,1,Normal,5,0
-17.6,6.0,225.0,85.0,3465.0,16.6,81,1,chrysler lebaron salon,Normal,chrysler,lebaron salon,1,Normal,6,0
-17.6,8.0,302.0,129.0,3725.0,13.4,79,1,ford ltd landau,Normal,ford,ltd landau,1,Normal,10,0
-17.7,6.0,231.0,165.0,3445.0,13.4,78,1,buick regal sport coupe (turbo),Normal,buick,regal sport coupe (turbo),1,Normal,3,0
-18.0,6.0,225.0,105.0,3613.0,16.5,74,1,plymouth satellite sebring,Normal,plymouth,satellite sebring,1,Normal,19,0
-18.0,6.0,250.0,105.0,3459.0,16.0,75,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,0
-18.0,6.0,250.0,78.0,3574.0,21.0,76,1,ford granada ghia,Normal,ford,granada ghia,1,Normal,10,0
-18.0,6.0,171.0,97.0,2984.0,14.5,75,1,ford pinto,Normal,ford,pinto,1,Normal,10,0
-18.0,6.0,225.0,95.0,3785.0,19.0,75,1,plymouth fury,Normal,plymouth,fury,1,Normal,19,0
-18.0,8.0,307.0,130.0,3504.0,12.0,70,1,chevrolet chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
-18.0,4.0,121.0,112.0,2933.0,14.5,72,2,volvo 145e (sw),Normal,volvo,145e (sw),1,Normal,27,0
-18.0,6.0,199.0,97.0,2774.0,15.5,70,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
-18.0,8.0,318.0,150.0,3436.0,11.0,70,1,plymouth satellite,Normal,plymouth,satellite,1,Normal,19,0
-18.0,6.0,232.0,100.0,3288.0,15.5,71,1,amc matador,Normal,amc,matador,1,Normal,0,0
-18.0,6.0,232.0,100.0,2789.0,15.0,73,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,0
-18.0,6.0,225.0,105.0,3121.0,16.5,73,1,plymouth valiant,Normal,plymouth,valiant,1,Normal,19,0
-18.0,6.0,232.0,100.0,2945.0,16.0,73,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
-18.0,6.0,258.0,110.0,2962.0,13.5,71,1,amc hornet sportabout (sw),Normal,amc,hornet sportabout (sw),1,Normal,0,0
-18.0,6.0,250.0,88.0,3021.0,16.5,73,1,ford maverick,Normal,ford,maverick,1,Normal,10,0
-18.0,6.0,250.0,88.0,3139.0,14.5,71,1,ford mustang,Normal,ford,mustang,1,Normal,10,0
-18.1,8.0,302.0,139.0,3205.0,11.2,78,1,ford futura,Normal,ford,futura,1,Normal,10,0
-18.1,6.0,258.0,120.0,3410.0,15.1,78,1,amc concord d/l,Normal,amc,concord d/l,1,Normal,0,0
-18.2,8.0,318.0,135.0,3830.0,15.2,79,1,dodge st. regis,Normal,dodge,st. regis,1,Normal,8,0
-18.5,8.0,360.0,150.0,3940.0,13.0,79,1,chrysler lebaron town @ country (sw),Normal,chrysler,lebaron town @ country (sw),1,Normal,6,0
-18.5,6.0,250.0,98.0,3525.0,19.0,77,1,ford granada,Normal,ford,granada,1,Normal,10,0
-18.5,6.0,250.0,110.0,3645.0,16.2,76,1,pontiac ventura sj,Normal,pontiac,ventura sj,1,Normal,20,0
-18.6,6.0,225.0,110.0,3620.0,18.7,78,1,dodge aspen,Normal,dodge,aspen,1,Normal,8,0
-19.0,3.0,70.0,97.0,2330.0,13.5,72,3,mazda rx2 coupe,Normal,mazda,rx2 coupe,1,Normal,12,0
-19.0,6.0,232.0,90.0,3211.0,17.0,75,1,amc pacer,Normal,amc,pacer,1,Normal,0,0
-19.0,4.0,120.0,88.0,3270.0,21.9,76,2,peugeot 504,Normal,peugeot,504,1,Normal,18,0
-19.0,6.0,225.0,95.0,3264.0,16.0,75,1,plymouth valiant custom,Normal,plymouth,valiant custom,1,Normal,19,0
-19.0,6.0,250.0,100.0,3282.0,15.0,71,1,pontiac firebird,Normal,pontiac,firebird,1,Normal,20,0
-19.0,6.0,232.0,100.0,2901.0,16.0,74,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
-19.0,6.0,250.0,88.0,3302.0,15.5,71,1,ford torino 500,Normal,ford,torino 500,1,Normal,10,0
-19.0,6.0,232.0,100.0,2634.0,13.0,71,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,0
-19.0,4.0,121.0,112.0,2868.0,15.5,73,2,volvo 144ea,Normal,volvo,144ea,1,Normal,27,0
-19.0,6.0,225.0,100.0,3630.0,17.7,77,1,plymouth volare custom,Normal,plymouth,volare custom,1,Normal,19,0
-19.0,4.0,122.0,85.0,2310.0,18.5,73,1,ford pinto,Normal,ford,pinto,1,Normal,10,0
-19.0,6.0,156.0,108.0,2930.0,15.5,76,3,toyota mark ii,Normal,toyota,mark ii,1,Normal,24,0
-19.1,6.0,225.0,90.0,3381.0,18.7,80,1,dodge aspen,Normal,dodge,aspen,1,Normal,8,1
-19.2,8.0,305.0,145.0,3425.0,13.2,78,1,chevrolet monte carlo landau,Normal,chevrolet,monte carlo landau,1,Normal,5,1
-19.2,8.0,267.0,125.0,3605.0,15.0,79,1,chevrolet malibu classic (sw),Normal,chevrolet,malibu classic (sw),1,Normal,5,1
-19.2,6.0,231.0,105.0,3535.0,19.2,78,1,pontiac phoenix lj,Normal,pontiac,phoenix lj,1,Normal,20,1
-19.4,8.0,318.0,140.0,3735.0,13.2,78,1,dodge diplomat,Normal,dodge,diplomat,1,Normal,8,1
-19.4,6.0,232.0,90.0,3210.0,17.2,78,1,amc concord,Normal,amc,concord,1,Normal,0,1
-19.8,6.0,200.0,85.0,2990.0,18.2,79,1,mercury zephyr 6,Normal,mercury,zephyr 6,1,Normal,14,1
-19.9,8.0,260.0,110.0,3365.0,15.5,78,1,oldsmobile cutlass salon brougham,Normal,oldsmobile,cutlass salon brougham,1,Normal,16,1
-20.0,6.0,156.0,122.0,2807.0,13.5,73,3,toyota mark ii,Normal,toyota,mark ii,1,Normal,24,1
-20.0,6.0,198.0,95.0,3102.0,16.5,74,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
-20.0,4.0,97.0,88.0,2279.0,19.0,73,3,toyota carina,Normal,toyota,carina,1,Normal,24,1
-20.0,4.0,130.0,102.0,3150.0,15.7,76,2,volvo 245,Normal,volvo,245,1,Normal,27,1
-20.0,6.0,225.0,100.0,3651.0,17.7,76,1,dodge aspen se,Normal,dodge,aspen se,1,Normal,8,1
-20.0,4.0,114.0,91.0,2582.0,14.0,73,2,audi 100ls,Normal,audi,100ls,1,Normal,1,1
-20.0,4.0,140.0,90.0,2408.0,19.5,72,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
-20.0,8.0,262.0,110.0,3221.0,13.5,75,1,chevrolet monza 2+2,Normal,chevrolet,monza 2+2,1,Normal,5,1
-20.0,6.0,232.0,100.0,2914.0,16.0,75,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,1
-20.2,6.0,200.0,88.0,3060.0,17.1,81,1,ford granada gl,Normal,ford,granada gl,1,Normal,10,1
-20.2,6.0,232.0,90.0,3265.0,18.2,79,1,amc concord dl 6,Normal,amc,concord dl 6,1,Normal,0,1
-20.2,6.0,200.0,85.0,2965.0,15.8,78,1,ford fairmont (auto),Normal,ford,fairmont (auto),1,Normal,10,1
-20.2,8.0,302.0,139.0,3570.0,12.8,78,1,mercury monarch ghia,Normal,mercury,monarch ghia,1,Normal,14,1
-20.3,5.0,131.0,103.0,2830.0,15.9,78,2,audi 5000,Normal,audi,5000,1,Normal,1,1
-20.5,6.0,225.0,100.0,3430.0,17.2,78,1,plymouth volare,Normal,plymouth,volare,1,Normal,19,1
-20.5,6.0,200.0,95.0,3155.0,18.2,78,1,chevrolet malibu,Normal,chevrolet,malibu,1,Normal,5,1
-20.5,6.0,231.0,105.0,3425.0,16.9,77,1,buick skylark,Normal,buick,skylark,1,Normal,3,1
-20.6,6.0,231.0,105.0,3380.0,15.8,78,1,buick century special,Normal,buick,century special,1,Normal,3,1
-20.6,6.0,225.0,110.0,3360.0,16.6,79,1,dodge aspen 6,Normal,dodge,aspen 6,1,Normal,8,1
-20.8,6.0,200.0,85.0,3070.0,16.7,78,1,mercury zephyr,Normal,mercury,zephyr,1,Normal,14,1
-21.0,4.0,122.0,86.0,2226.0,16.5,72,1,ford pinto runabout,Normal,ford,pinto runabout,1,Normal,10,1
-21.0,4.0,140.0,72.0,2401.0,19.5,73,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
-21.0,6.0,200.0,88.0,2875.0,17.0,74,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
-21.0,6.0,200.0,85.0,2587.0,16.0,70,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
-21.0,6.0,199.0,90.0,2648.0,15.0,70,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,1
-21.0,6.0,155.0,107.0,2472.0,14.0,73,1,mercury capri v6,Normal,mercury,capri v6,1,Normal,14,1
-21.0,4.0,120.0,87.0,2979.0,19.5,72,2,peugeot 504 (sw),Normal,peugeot,504 (sw),1,Normal,18,1
-21.0,6.0,231.0,110.0,3039.0,15.0,75,1,buick skyhawk,Normal,buick,skyhawk,1,Normal,3,1
-21.1,4.0,134.0,95.0,2515.0,14.8,78,3,toyota celica gt liftback,Normal,toyota,celica gt liftback,1,Normal,24,1
-21.5,6.0,231.0,115.0,3245.0,15.4,79,1,pontiac lemans v6,Normal,pontiac,lemans v6,1,Normal,20,1
-21.5,3.0,80.00000000000001,110.0,2720.0,13.5,77,3,mazda rx-4,Normal,mazda,rx-4,1,Normal,12,1
-21.5,4.0,121.0,110.0,2600.0,12.8,77,2,bmw 320i,Normal,bmw,320i,1,Normal,2,1
-21.6,4.0,121.0,115.0,2795.0,15.7,78,2,saab 99gle,Normal,saab,99gle,1,Normal,22,1
-22.0,4.0,140.0,72.0,2408.0,19.0,71,1,chevrolet vega (sw),Normal,chevrolet,vega (sw),1,Normal,5,1
-22.0,4.0,122.0,86.0,2395.0,16.0,72,1,ford pinto (sw),Normal,ford,pinto (sw),1,Normal,10,1
-22.0,4.0,108.0,94.0,2379.0,16.5,73,3,datsun 610,Normal,datsun,610,1,Normal,7,1
-22.0,4.0,121.0,76.0,2511.0,18.0,72,2,volkswagen 411 (sw),Normal,volkswagen,411 (sw),1,Normal,26,1
-22.0,6.0,250.0,105.0,3353.0,14.5,76,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,1
-22.0,6.0,232.0,112.0,2835.0,14.7,82,1,ford granada l,Normal,ford,granada l,1,Normal,10,1
-22.0,6.0,146.0,97.0,2815.0,14.5,77,3,datsun 810,Normal,datsun,810,1,Normal,7,1
-22.0,6.0,198.0,95.0,2833.0,15.5,70,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
-22.0,4.0,121.0,98.0,2945.0,14.5,75,2,volvo 244dl,Normal,volvo,244dl,1,Normal,27,1
-22.0,6.0,225.0,100.0,3233.0,15.4,76,1,plymouth valiant,Normal,plymouth,valiant,1,Normal,19,1
-22.3,4.0,140.0,88.0,2890.0,17.3,79,1,ford fairmont 4,Normal,ford,fairmont 4,1,Normal,10,1
-22.4,6.0,231.0,110.0,3415.0,15.8,81,1,buick century,Normal,buick,century,1,Normal,3,1
-22.5,6.0,232.0,90.0,3085.0,17.6,76,1,amc hornet,Normal,amc,hornet,1,Normal,0,1
-23.0,4.0,115.0,95.0,2694.0,15.0,75,2,audi 100ls,Normal,audi,100ls,1,Normal,1,1
-23.0,4.0,140.0,78.0,2592.0,18.5,75,1,pontiac astro,Normal,pontiac,astro,1,Normal,20,1
-23.0,4.0,120.0,88.0,2957.0,17.0,75,2,peugeot 504,Normal,peugeot,504,1,Normal,18,1
-23.0,4.0,140.0,83.0,2639.0,17.0,75,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
-23.0,8.0,350.0,125.0,3900.0,17.4,79,1,cadillac eldorado,Normal,cadillac,eldorado,1,Normal,4,1
-23.0,4.0,120.0,97.0,2506.0,14.5,72,3,toyouta corona mark ii (sw),Normal,toyota,corona mark ii (sw),1,Normal,24,1
-23.0,6.0,198.0,95.0,2904.0,16.0,73,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
-23.0,4.0,122.0,86.0,2220.0,14.0,71,1,mercury capri 2000,Normal,mercury,capri 2000,1,Normal,14,1
-23.0,4.0,151.0,90.0,3035.0,20.5,82,1,amc concord dl,Normal,amc,concord dl,1,Normal,0,1
-23.2,4.0,156.0,105.0,2745.0,16.7,78,1,plymouth sapporo,Normal,plymouth,sapporo,1,Normal,19,1
-23.5,6.0,173.0,110.0,2725.0,12.6,81,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,1
-23.6,4.0,140.0,98.0,2905.0,14.3,80,1,ford mustang cobra,Normal,ford,mustang cobra,1,Normal,10,1
-23.8,4.0,151.0,85.0,2855.0,17.6,78,1,oldsmobile starfire sx,Normal,oldsmobile,starfire sx,1,Normal,16,1
-23.9,4.0,119.0,97.0,2405.0,14.9,78,3,datsun 200-sx,Normal,datsun,200-sx,1,Normal,7,1
-24.0,4.0,119.0,97.0,2545.0,17.0,75,3,datsun 710,Normal,datsun,710,1,Normal,7,1
-24.0,4.0,134.0,96.0,2702.0,13.5,75,3,toyota corona,Normal,toyota,corona,1,Normal,24,1
-24.0,4.0,121.0,110.0,2660.0,14.0,73,2,saab 99le,Normal,saab,99le,1,Normal,22,1
-24.0,4.0,116.0,75.0,2158.0,15.5,73,2,opel manta,Normal,opel,manta,1,Normal,17,1
-24.0,4.0,113.0,95.0,2278.0,15.5,72,3,toyota corona hardtop,Normal,toyota,corona hardtop,1,Normal,24,1
-24.0,4.0,120.0,97.0,2489.0,15.0,74,3,honda civic,Normal,honda,civic,1,Normal,11,1
-24.0,4.0,140.0,92.0,2865.0,16.4,82,1,ford fairmont futura,Normal,ford,fairmont futura,1,Normal,10,1
-24.0,4.0,107.0,90.0,2430.0,14.5,70,2,audi 100 ls,Normal,audi,100 ls,1,Normal,1,1
-24.0,4.0,90.0,75.0,2108.0,15.5,74,2,fiat 128,Normal,fiat,128,1,Normal,9,1
-24.0,6.0,200.0,81.0,3012.0,17.6,76,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
-24.0,4.0,113.0,95.0,2372.0,15.0,70,3,toyota corona mark ii,Normal,toyota,corona mark ii,1,Normal,24,1
-24.2,6.0,146.0,120.0,2930.0,13.8,81,3,datsun 810 maxima,Normal,datsun,810 maxima,1,Normal,7,1
-24.3,4.0,151.0,90.0,3003.0,20.1,80,1,amc concord,Normal,amc,concord,1,Normal,0,1
-24.5,4.0,98.0,60.0,2164.0,22.1,76,1,chevrolet woody,Normal,chevrolet,woody,1,Normal,5,1
-24.5,4.0,151.0,88.0,2740.0,16.0,77,1,pontiac sunbird coupe,Normal,pontiac,sunbird coupe,1,Normal,20,1
-25.0,4.0,110.0,87.0,2672.0,17.5,70,2,peugeot 504,Normal,peugeot,504,1,Normal,18,1
-25.0,4.0,98.0,60.0,2046.0,19.0,71,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
-25.0,4.0,97.5,80.0,2126.0,17.0,72,1,dodge colt hardtop,Normal,dodge,colt hardtop,1,Normal,8,1
-25.0,4.0,90.0,71.0,2223.0,16.5,75,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,1
-25.0,4.0,116.0,81.0,2220.0,16.9,76,2,opel 1900,Normal,opel,1900,1,Normal,17,1
-25.0,4.0,140.0,92.0,2572.0,14.9,76,1,capri ii,Normal,mercury,ii,1,Normal,14,1
-25.0,4.0,113.0,95.0,2228.0,14.0,71,3,toyota corona,Normal,toyota,corona,1,Normal,24,1
-25.0,4.0,121.0,115.0,2671.0,13.5,75,2,saab 99le,Normal,saab,99le,1,Normal,22,1
-25.0,4.0,140.0,75.0,2542.0,17.0,74,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
-25.0,6.0,181.0,110.0,2945.0,16.4,82,1,buick century limited,Normal,buick,century limited,1,Normal,3,1
-25.0,4.0,104.0,95.0,2375.0,17.5,70,2,saab 99e,Normal,saab,99e,1,Normal,22,1
-25.1,4.0,140.0,88.0,2720.0,15.4,78,1,ford fairmont (man),Normal,ford,fairmont (man),1,Normal,10,1
-25.4,6.0,168.0,116.0,2900.0,12.6,81,3,toyota cressida,Normal,toyota,cressida,1,Normal,24,1
-25.4,5.0,183.0,77.0,3530.0,20.1,79,2,mercedes benz 300d,Normal,mercedes,benz 300d,1,Normal,13,1
-25.5,4.0,122.0,96.0,2300.0,15.5,77,1,plymouth arrow gs,Normal,plymouth,arrow gs,1,Normal,19,1
-25.5,4.0,140.0,89.0,2755.0,15.8,77,1,ford mustang ii 2+2,Normal,ford,mustang ii 2+2,1,Normal,10,1
-25.8,4.0,156.0,92.0,2620.0,14.4,81,1,dodge aries wagon (sw),Normal,dodge,aries wagon (sw),1,Normal,8,1
-26.0,4.0,156.0,92.0,2585.0,14.5,82,1,chrysler lebaron medallion,Normal,chrysler,lebaron medallion,1,Normal,6,1
-26.0,4.0,97.0,46.0,1835.0,20.5,70,2,volkswagen 1131 deluxe sedan,Normal,volkswagen,1131 deluxe sedan,1,Normal,26,1
-26.0,4.0,98.0,90.0,2265.0,15.5,73,2,fiat 124 sport coupe,Normal,fiat,124 sport coupe,1,Normal,9,1
-26.0,4.0,97.0,78.0,2300.0,14.5,74,2,opel manta,Normal,opel,manta,1,Normal,17,1
-26.0,4.0,97.0,46.0,1950.0,21.0,73,2,volkswagen super beetle,Normal,volkswagen,super beetle,1,Normal,26,1
-26.0,4.0,79.0,67.0,1963.0,15.5,74,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,1
-26.0,4.0,116.0,75.0,2246.0,14.0,74,2,fiat 124 tc,Normal,fiat,124 tc,1,Normal,9,1
-26.0,4.0,108.0,93.0,2391.0,15.5,74,3,subaru,Normal,subaru,,1,Normal,23,1
-26.0,4.0,96.0,69.0,2189.0,18.0,72,2,renault 12 (sw),Normal,renault,12 (sw),1,Normal,21,1
-26.0,4.0,97.0,75.0,2265.0,18.2,77,3,toyota corolla liftback,Normal,toyota,corolla liftback,1,Normal,24,1
-26.0,4.0,91.0,70.0,1955.0,20.5,71,1,plymouth cricket,Normal,plymouth,cricket,1,Normal,19,1
-26.0,4.0,121.0,113.0,2234.0,12.5,70,2,bmw 2002,Normal,bmw,2002,1,Normal,2,1
-26.0,4.0,122.0,80.0,2451.0,16.5,74,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
-26.0,4.0,98.0,79.0,2255.0,17.7,76,1,dodge colt,Normal,dodge,colt,1,Normal,8,1
-26.4,4.0,140.0,88.0,2870.0,18.1,80,1,ford fairmont,Normal,ford,fairmont,1,Normal,10,1
-26.5,4.0,140.0,72.0,2565.0,13.6,76,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
-26.6,4.0,151.0,84.0,2635.0,16.4,81,1,buick skylark,Normal,buick,skylark,1,Normal,3,1
-26.8,6.0,173.0,115.0,2700.0,12.9,79,1,oldsmobile omega brougham,Normal,oldsmobile,omega brougham,1,Normal,16,1
-27.0,4.0,97.0,88.0,2130.0,14.5,70,3,datsun pl510,Normal,datsun,pl510,1,Normal,7,1
-27.0,4.0,101.0,83.0,2202.0,15.3,76,2,renault 12tl,Normal,renault,12tl,1,Normal,21,1
-27.0,4.0,97.0,88.0,2100.0,16.5,72,3,toyota corolla 1600 (sw),Normal,toyota,corolla 1600 (sw),1,Normal,24,1
-27.0,4.0,97.0,60.0,1834.0,19.0,71,2,volkswagen model 111,Normal,volkswagen,model 111,1,Normal,26,1
-27.0,4.0,140.0,86.0,2790.0,15.6,82,1,ford mustang gl,Normal,ford,mustang gl,1,Normal,10,1
-27.0,4.0,151.0,90.0,2950.0,17.3,82,1,chevrolet camaro,Normal,chevrolet,camaro,1,Normal,5,1
-27.0,4.0,151.0,90.0,2735.0,18.0,82,1,pontiac phoenix,Normal,pontiac,phoenix,1,Normal,20,1
-27.0,4.0,112.0,88.0,2640.0,18.6,82,1,chevrolet cavalier wagon,Normal,chevrolet,cavalier wagon,1,Normal,5,1
-27.0,4.0,97.0,88.0,2130.0,14.5,71,3,datsun pl510,Normal,datsun,pl510,1,Normal,7,1
-27.2,4.0,135.0,84.0,2490.0,15.7,81,1,plymouth reliant,Normal,plymouth,reliant,1,Normal,19,2
-27.2,4.0,119.0,97.0,2300.0,14.7,78,3,datsun 510,Normal,datsun,510,1,Normal,7,2
-27.4,4.0,121.0,80.0,2670.0,15.0,79,1,amc spirit dl,Normal,amc,spirit dl,1,Normal,0,2
-27.5,4.0,134.0,95.0,2560.0,14.2,78,3,toyota corona,Normal,toyota,corona,1,Normal,24,2
-27.9,4.0,156.0,105.0,2800.0,14.4,80,1,dodge colt,Normal,dodge,colt,1,Normal,8,2
-28.0,4.0,112.0,88.0,2605.0,19.6,82,1,chevrolet cavalier,Normal,chevrolet,cavalier,1,Normal,5,2
-28.0,4.0,97.0,92.0,2288.0,17.0,72,3,datsun 510 (sw),Normal,datsun,510 (sw),1,Normal,7,2
-28.0,4.0,90.0,75.0,2125.0,14.5,74,1,dodge colt,Normal,dodge,colt,1,Normal,8,2
-28.0,4.0,151.0,90.0,2678.0,16.5,80,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,2
-28.0,4.0,107.0,86.0,2464.0,15.5,76,2,fiat 131,Normal,fiat,131,1,Normal,9,2
-28.0,4.0,140.0,90.0,2264.0,15.5,71,1,chevrolet vega 2300,Normal,chevrolet,vega 2300,1,Normal,5,2
-28.0,4.0,98.0,80.0,2164.0,15.0,72,1,dodge colt (sw),Normal,dodge,colt (sw),1,Normal,8,2
-28.0,4.0,120.0,79.0,2625.0,18.6,82,1,ford ranger,Normal,ford,ranger,1,Normal,10,2
-28.0,4.0,97.0,75.0,2155.0,16.4,76,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
-28.0,4.0,116.0,90.0,2123.0,14.0,71,2,opel 1900,Normal,opel,1900,1,Normal,17,2
-28.1,4.0,141.0,80.0,3230.0,20.4,81,2,peugeot 505s turbo diesel,Normal,peugeot,505s turbo diesel,1,Normal,18,2
-28.4,4.0,151.0,90.0,2670.0,16.0,79,1,buick skylark limited,Normal,buick,skylark limited,1,Normal,3,2
-28.8,6.0,173.0,115.0,2595.0,11.3,79,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,2
-29.0,4.0,68.0,48.99999999999999,1867.0,19.5,73,2,fiat 128,Normal,fiat,128,1,Normal,9,2
-29.0,4.0,90.0,70.0,1937.0,14.0,75,2,volkswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
-29.0,4.0,97.0,78.0,1940.0,14.5,77,2,volkswagen rabbit custom,Normal,volkswagen,rabbit custom,1,Normal,26,2
-29.0,4.0,97.0,75.0,2171.0,16.0,75,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
-29.0,4.0,85.00000000000001,52.0,2035.0,22.2,76,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
-29.0,4.0,135.0,84.0,2525.0,16.0,82,1,dodge aries se,Normal,dodge,aries se,1,Normal,8,2
-29.0,4.0,90.0,70.0,1937.0,14.2,76,2,vw rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
-29.0,4.0,98.0,83.0,2219.0,16.5,74,2,audi fox,Normal,audi,fox,1,Normal,1,2
-29.5,4.0,98.0,68.0,2135.0,16.6,78,3,honda accord lx,Normal,honda,accord lx,1,Normal,11,2
-29.5,4.0,97.0,71.0,1825.0,12.2,76,2,volkswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
-29.8,4.0,88.99999999999999,61.99999999999999,1845.0,15.3,80,2,vokswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
-29.8,4.0,134.0,90.0,2711.0,15.5,80,3,toyota corona liftback,Normal,toyota,corona liftback,1,Normal,24,2
-29.9,4.0,98.0,65.0,2380.0,20.7,81,1,ford escort 2h,Normal,ford,escort 2h,1,Normal,10,2
-30.0,4.0,135.0,84.0,2385.0,12.9,81,1,plymouth reliant,Normal,plymouth,reliant,1,Normal,19,2
-30.0,4.0,87.99999999999999,76.0,2065.0,14.5,71,2,fiat 124b,Normal,fiat,124b,1,Normal,9,2
-30.0,4.0,79.0,70.0,2074.0,19.5,71,2,peugeot 304,Normal,peugeot,304,1,Normal,18,2
-30.0,4.0,98.0,68.0,2155.0,16.5,78,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
-30.0,4.0,146.0,67.0,3250.0,21.8,80,2,mercedes-benz 240d,Normal,mercedes,240d,1,Normal,13,2
-30.0,4.0,111.0,80.0,2155.0,14.8,77,1,buick opel isuzu deluxe,Normal,buick,opel isuzu deluxe,1,Normal,3,2
-30.0,4.0,97.0,67.0,1985.0,16.4,77,3,subaru dl,Normal,subaru,dl,1,Normal,23,2
-30.5,4.0,98.0,63.0,2051.0,17.0,77,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
-30.5,4.0,97.0,78.0,2190.0,14.1,77,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,2
-30.7,6.0,145.0,76.0,3160.0,19.6,81,2,volvo diesel,Normal,volvo,diesel,1,Normal,27,2
-30.9,4.0,105.0,75.0,2230.0,14.5,78,1,dodge omni,Normal,dodge,omni,1,Normal,8,2
-31.0,4.0,79.0,67.0,1950.0,19.0,74,3,datsun b210,Normal,datsun,b210,1,Normal,7,2
-31.0,4.0,112.0,85.0,2575.0,16.2,82,1,pontiac j2000 se hatchback,Normal,pontiac,j2000 se hatchback,1,Normal,20,2
-31.0,4.0,76.0,52.0,1649.0,16.5,74,3,toyota corona,Normal,toyota,corona,1,Normal,24,2
-31.0,4.0,119.0,82.0,2720.0,19.4,82,1,chevy s-10,Normal,chevrolet,s-10,1,Normal,5,2
-31.0,4.0,91.0,68.0,1970.0,17.6,82,3,mazda glc custom,Normal,mazda,glc custom,1,Normal,12,2
-31.0,4.0,79.0,67.0,2000.0,16.0,74,2,fiat x1.9,Normal,fiat,x1.9,1,Normal,9,2
-31.0,4.0,71.0,65.0,1773.0,19.0,71,3,toyota corolla 1200,Normal,toyota,corolla 1200,1,Normal,24,2
-31.3,4.0,120.0,75.0,2542.0,17.5,80,3,mazda 626,Normal,mazda,626,1,Normal,12,2
-31.5,4.0,98.0,68.0,2045.0,18.5,77,3,honda accord cvcc,Normal,honda,accord cvcc,1,Normal,11,2
-31.5,4.0,88.99999999999999,71.0,1990.0,14.9,78,2,volkswagen scirocco,Normal,volkswagen,scirocco,1,Normal,26,2
-31.6,4.0,120.0,74.0,2635.0,18.3,81,3,mazda 626,Normal,mazda,626,1,Normal,12,2
-31.8,4.0,85.00000000000001,65.0,2020.0,19.2,79,3,datsun 210,Normal,datsun,210,1,Normal,7,2
-31.9,4.0,88.99999999999999,71.0,1925.0,14.0,79,2,vw rabbit custom,Normal,volkswagen,rabbit custom,1,Normal,26,2
-32.0,4.0,144.0,96.0,2665.0,13.9,82,3,toyota celica gt,Normal,toyota,celica gt,1,Normal,24,2
-32.0,4.0,135.0,84.0,2295.0,11.6,82,1,dodge rampage,Normal,dodge,rampage,1,Normal,8,2
-32.0,4.0,91.0,67.0,1965.0,15.7,82,3,honda civic (auto),Normal,honda,civic (auto),1,Normal,11,2
-32.0,4.0,85.00000000000001,70.0,1990.0,17.0,76,3,datsun b-210,Normal,datsun,b-210,1,Normal,7,2
-32.0,4.0,83.00000000000001,61.0,2003.0,19.0,74,3,datsun 710,Normal,datsun,710,1,Normal,7,2
-32.0,4.0,71.0,65.0,1836.0,21.0,74,3,toyota corolla 1200,Normal,toyota,corolla 1200,1,Normal,24,2
-32.1,4.0,98.0,70.0,2120.0,15.5,80,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
-32.2,4.0,108.0,75.0,2265.0,15.2,80,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
-32.3,4.0,97.0,67.0,2065.0,17.8,81,3,subaru,Normal,subaru,,1,Normal,23,2
-32.4,4.0,108.0,75.0,2350.0,16.8,81,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
-32.4,4.0,107.0,72.0,2290.0,17.0,80,3,honda accord,Normal,honda,accord,1,Normal,11,2
-32.8,4.0,78.0,52.0,1985.0,19.4,78,3,mazda glc deluxe,Normal,mazda,glc deluxe,1,Normal,12,2
-32.9,4.0,119.0,100.0,2615.0,14.8,81,3,datsun 200sx,Normal,datsun,200sx,1,Normal,7,2
-33.0,4.0,91.0,53.0,1795.0,17.4,76,3,honda civic,Normal,honda,civic,1,Normal,11,2
-33.0,4.0,105.0,74.0,2190.0,14.2,81,2,volkswagen jetta,Normal,volkswagen,jetta,1,Normal,26,2
-33.0,4.0,91.0,53.0,1795.0,17.5,75,3,honda civic cvcc,Normal,honda,civic cvcc,1,Normal,11,2
-33.5,4.0,85.00000000000001,70.0,1945.0,16.8,77,3,datsun f-10 hatchback,Normal,datsun,f-10 hatchback,1,Normal,7,2
-33.5,4.0,151.0,90.0,2556.0,13.2,79,1,pontiac phoenix,Normal,pontiac,phoenix,1,Normal,20,2
-33.5,4.0,98.0,83.0,2075.0,15.9,77,1,dodge colt m/m,Normal,dodge,colt m/m,1,Normal,8,2
-33.7,4.0,107.0,75.0,2210.0,14.4,81,3,honda prelude,Normal,honda,prelude,1,Normal,11,2
-33.8,4.0,97.0,67.0,2145.0,18.0,80,3,subaru dl,Normal,subaru,dl,1,Normal,23,2
-34.0,4.0,112.0,88.0,2395.0,18.0,82,1,chevrolet cavalier 2-door,Normal,chevrolet,cavalier 2-door,1,Normal,5,2
-34.0,4.0,108.0,70.0,2245.0,16.9,82,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
-34.1,4.0,91.0,68.0,1985.0,16.0,81,3,mazda glc 4,Normal,mazda,glc 4,1,Normal,12,2
-34.1,4.0,85.99999999999999,65.0,1975.0,15.2,79,3,maxda glc deluxe,Normal,mazda,glc deluxe,1,Normal,12,2
-34.2,4.0,105.0,70.0,2200.0,13.2,79,1,plymouth horizon,Normal,plymouth,horizon,1,Normal,19,2
-34.3,4.0,97.0,78.0,2188.0,15.8,80,2,audi 4000,Normal,audi,4000,1,Normal,1,2
-34.4,4.0,98.0,65.0,2045.0,16.2,81,1,ford escort 4w,Normal,ford,escort 4w,1,Normal,10,2
-34.5,4.0,100.0,78.0,2320.0,15.8,81,2,renault 18i,Normal,renault,18i,1,Normal,21,2
-34.5,4.0,105.0,70.0,2150.0,14.9,79,1,plymouth horizon tc3,Normal,plymouth,horizon tc3,1,Normal,19,2
-34.7,4.0,105.0,63.0,2215.0,14.9,81,1,plymouth horizon 4,Normal,plymouth,horizon 4,1,Normal,19,2
-35.0,4.0,72.0,69.0,1613.0,18.0,71,3,datsun 1200,Normal,datsun,1200,1,Normal,7,2
-35.0,4.0,122.0,88.0,2500.0,15.1,80,2,triumph tr7 coupe,Normal,triumph,tr7 coupe,1,Normal,25,2
-35.1,4.0,81.00000000000001,60.0,1760.0,16.1,81,3,honda civic 1300,Normal,honda,civic 1300,1,Normal,11,2
-35.7,4.0,98.0,80.0,1915.0,14.4,79,1,dodge colt hatchback custom,Normal,dodge,colt hatchback custom,1,Normal,8,2
-36.0,4.0,107.0,75.0,2205.0,14.5,82,3,honda accord,Normal,honda,accord,1,Normal,11,2
-36.0,4.0,98.0,70.0,2125.0,17.3,82,1,mercury lynx l,Normal,mercury,lynx l,1,Normal,14,2
-36.0,4.0,79.0,58.0,1825.0,18.6,77,2,renault 5 gtl,Normal,renault,5 gtl,1,Normal,21,2
-36.0,4.0,105.0,74.0,1980.0,15.3,82,2,volkswagen rabbit l,Normal,volkswagen,rabbit l,1,Normal,26,2
-36.0,4.0,120.0,88.0,2160.0,14.5,82,3,nissan stanza xe,Normal,nissan,stanza xe,1,Normal,15,2
-36.0,4.0,135.0,84.0,2370.0,13.0,82,1,dodge charger 2.2,Normal,dodge,charger 2.2,1,Normal,8,2
-36.1,4.0,98.0,66.0,1800.0,14.4,78,1,ford fiesta,Normal,ford,fiesta,1,Normal,10,2
-36.1,4.0,91.0,60.0,1800.0,16.4,78,3,honda civic cvcc,Normal,honda,civic cvcc,1,Normal,11,2
-36.4,5.0,121.0,67.0,2950.0,19.9,80,2,audi 5000s (diesel),Normal,audi,5000s (diesel),1,Normal,1,2
-37.0,4.0,119.0,92.0,2434.0,15.0,80,3,datsun 510 hatchback,Normal,datsun,510 hatchback,1,Normal,7,2
-37.0,4.0,85.00000000000001,65.0,1975.0,19.4,81,3,datsun 210 mpg,Normal,datsun,210 mpg,1,Normal,7,2
-37.0,4.0,91.0,68.0,2025.0,18.2,82,3,mazda glc custom l,Normal,mazda,glc custom l,1,Normal,12,2
-37.2,4.0,85.99999999999999,65.0,2019.0,16.4,80,3,datsun 310,Normal,datsun,310,1,Normal,7,2
-37.3,4.0,91.0,69.0,2130.0,14.7,79,2,fiat strada custom,Normal,fiat,strada custom,1,Normal,9,2
-37.7,4.0,88.99999999999999,61.99999999999999,2050.0,17.3,81,3,toyota tercel,Normal,toyota,tercel,1,Normal,24,2
-38.0,4.0,105.0,63.0,2125.0,14.7,82,1,plymouth horizon miser,Normal,plymouth,horizon miser,1,Normal,19,2
-38.0,4.0,91.0,67.0,1995.0,16.2,82,3,datsun 310 gx,Normal,datsun,310 gx,1,Normal,7,2
-38.0,6.0,262.0,85.0,3015.0,17.0,82,1,oldsmobile cutlass ciera (diesel),Normal,oldsmobile,cutlass ciera (diesel),1,Normal,16,2
-38.0,4.0,91.0,67.0,1965.0,15.0,82,3,honda civic,Normal,honda,civic,1,Normal,11,2
-38.1,4.0,88.99999999999999,60.0,1968.0,18.8,80,3,toyota corolla tercel,Normal,toyota,corolla tercel,1,Normal,24,2
-39.0,4.0,85.99999999999999,64.0,1875.0,16.4,81,1,plymouth champ,Normal,plymouth,champ,1,Normal,19,2
-39.1,4.0,79.0,58.0,1755.0,16.9,81,3,toyota starlet,Normal,toyota,starlet,1,Normal,24,2
-39.4,4.0,85.00000000000001,70.0,2070.0,18.6,78,3,datsun b210 gx,Normal,datsun,b210 gx,1,Normal,7,2
-40.8,4.0,85.00000000000001,65.0,2110.0,19.2,80,3,datsun 210,Normal,datsun,210,1,Normal,7,2
-40.9,4.0,85.00000000000001,58.0,1835.0,17.3,80,2,renault lecar deluxe,Normal,renault,lecar deluxe,1,Normal,21,2
-41.5,4.0,98.0,76.0,2144.0,14.7,80,2,vw rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
-43.1,4.0,90.0,48.0,1985.0,21.5,78,2,volkswagen rabbit custom diesel,Normal,volkswagen,rabbit custom diesel,1,Normal,26,2
-44.3,4.0,90.0,48.0,2085.0,21.7,80,2,vw rabbit c (diesel),Normal,volkswagen,rabbit c (diesel),1,Normal,26,2
-44.6,4.0,91.0,67.0,1850.0,13.8,80,3,honda civic 1500 gl,Normal,honda,civic 1500 gl,1,Normal,11,2
+,mpg,cylinders,displayments,horsepower,weight,acceleration,model year,origin,car name,outlier,car brand,model,anomaly_score,multivariate_outlier,car_name_encoded,mpg_classes
+109,11.0,8.0,350.0,180.0,3664.0,11.0,73,1,oldsmobile omega,Normal,oldsmobile,omega,1,Normal,16,0
+90,11.0,8.0,400.0,150.0,4997.0,14.0,73,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
+20,11.0,8.0,318.0,210.0,4382.0,13.5,70,1,dodge d200,Normal,dodge,d200,1,Normal,8,0
+93,12.0,8.0,350.0,180.0,4499.0,12.5,73,1,oldsmobile vista cruiser,Normal,oldsmobile,vista cruiser,1,Normal,16,0
+91,12.0,8.0,400.0,167.0,4906.0,12.5,73,1,ford country,Normal,ford,country,1,Normal,10,0
+34,12.0,8.0,383.0,180.0,4955.0,11.5,71,1,dodge monaco (sw),Normal,dodge,monaco (sw),1,Normal,8,0
+59,12.0,8.0,350.0,160.0,4456.0,13.5,72,1,oldsmobile delta 88 royale,Normal,oldsmobile,delta 88 royale,1,Normal,16,0
+151,13.0,8.0,302.0,129.0,3169.0,12.0,75,1,ford mustang ii,Normal,ford,mustang ii,1,Normal,10,0
+63,13.0,8.0,307.0,130.0,4098.0,14.0,72,1,chevrolet chevelle concours (sw),Normal,chevrolet,chevelle concours (sw),1,Normal,5,0
+64,13.0,8.0,302.0,140.0,4294.0,16.0,72,1,ford gran torino (sw),Normal,ford,gran torino (sw),1,Normal,10,0
+53,13.0,8.0,350.0,165.0,4274.0,12.0,72,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
+35,13.0,8.0,400.0,170.0,4746.0,12.0,71,1,ford country squire (sw),Normal,ford,country squire (sw),1,Normal,10,0
+36,13.0,8.0,400.0,175.0,5140.0,12.0,71,1,pontiac safari (sw),Normal,pontiac,safari (sw),1,Normal,20,0
+200,13.0,8.0,318.0,150.0,3755.0,14.0,76,1,dodge d100,Normal,dodge,d100,1,Normal,8,0
+199,13.0,8.0,302.0,130.0,3870.0,15.0,76,1,ford f108,Normal,ford,f108,1,Normal,10,0
+75,13.0,8.0,350.0,175.0,4100.0,13.0,73,1,buick century 350,Normal,buick,century 350,1,Normal,3,0
+77,13.0,8.0,350.0,145.0,3988.0,13.0,73,1,chevrolet malibu,Normal,chevrolet,malibu,1,Normal,5,0
+60,13.0,8.0,400.0,190.0,4422.0,12.5,72,1,chrysler newport royal,Normal,chrysler,newport royal,1,Normal,6,0
+58,13.0,8.0,350.0,155.0,4502.0,13.5,72,1,buick lesabre custom,Normal,buick,lesabre custom,1,Normal,3,0
+80,13.0,8.0,400.0,150.0,4464.0,12.0,73,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
+81,13.0,8.0,351.0,158.0,4363.0,13.0,73,1,ford ltd,Normal,ford,ltd,1,Normal,10,0
+193,13.0,8.0,318.0,150.0,3940.0,13.2,76,1,plymouth volare premier v8,Normal,plymouth,volare premier v8,1,Normal,19,0
+83,13.0,8.0,360.0,175.0,3821.0,11.0,73,1,amc ambassador brougham,Normal,amc,ambassador brougham,1,Normal,0,0
+122,13.0,8.0,350.0,150.0,4699.0,14.5,74,1,buick century luxus (sw),Normal,buick,century luxus (sw),1,Normal,3,0
+92,13.0,8.0,360.0,170.0,4654.0,13.0,73,1,plymouth custom suburb,Normal,plymouth,custom suburb,1,Normal,19,0
+198,13.0,8.0,350.0,145.0,4055.0,12.0,76,1,chevy c10,Normal,chevrolet,c10,1,Normal,5,0
+56,14.0,8.0,351.0,153.0,4129.0,13.0,72,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
+33,14.0,8.0,318.0,150.0,4096.0,13.0,71,1,plymouth fury iii,Normal,plymouth,fury iii,1,Normal,19,0
+54,14.0,8.0,400.0,175.0,4385.0,12.0,72,1,pontiac catalina,Normal,pontiac,catalina,1,Normal,20,0
+32,14.0,8.0,351.0,153.0,4154.0,13.5,71,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
+31,14.0,8.0,400.0,175.0,4464.0,11.5,71,1,pontiac catalina brougham,Normal,pontiac,catalina brougham,1,Normal,20,0
+144,14.0,8.0,351.0,148.0,4657.0,13.5,75,1,ford ltd,Normal,ford,ltd,1,Normal,10,0
+78,14.0,8.0,302.0,137.0,4042.0,14.5,73,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
+65,14.0,8.0,318.0,150.0,4077.0,14.0,72,1,plymouth satellite custom (sw),Normal,plymouth,satellite custom (sw),1,Normal,19,0
+125,14.0,8.0,304.0,150.0,4257.0,15.5,74,1,amc matador (sw),Normal,amc,matador (sw),1,Normal,0,0
+124,14.0,8.0,302.0,140.0,4638.0,16.0,74,1,ford gran torino (sw),Normal,ford,gran torino (sw),1,Normal,10,0
+76,14.0,8.0,304.0,150.0,3672.0,11.5,73,1,amc matador,Normal,amc,matador,1,Normal,0,0
+30,14.0,8.0,350.0,165.0,4209.0,12.0,71,1,chevrolet impala,Normal,chevrolet,impala,1,Normal,5,0
+123,14.0,8.0,318.0,150.0,4457.0,13.5,74,1,dodge coronet custom (sw),Normal,dodge,coronet custom (sw),1,Normal,8,0
+82,14.0,8.0,318.0,150.0,4237.0,14.5,73,1,plymouth fury gran sedan,Normal,plymouth,fury gran sedan,1,Normal,19,0
+175,14.5,8.0,351.0,152.0,4215.0,12.8,76,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
+113,15.0,6.0,250.0,100.0,3336.0,17.0,74,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,0
+55,15.0,8.0,318.0,150.0,4135.0,13.5,72,1,plymouth fury iii,Normal,plymouth,fury iii,1,Normal,19,0
+62,15.0,8.0,304.0,150.0,3892.0,12.5,72,1,amc matador (sw),Normal,amc,matador (sw),1,Normal,0,0
+139,15.0,6.0,250.0,72.0,3432.0,21.0,75,1,mercury monarch,Normal,mercury,monarch,1,Normal,14,0
+140,15.0,6.0,250.0,72.0,3158.0,19.5,75,1,ford maverick,Normal,ford,maverick,1,Normal,10,0
+142,15.0,8.0,350.0,145.0,4440.0,14.0,75,1,chevrolet bel air,Normal,chevrolet,bel air,1,Normal,5,0
+79,15.0,8.0,318.0,150.0,3777.0,12.5,73,1,dodge coronet custom,Normal,dodge,coronet custom,1,Normal,8,0
+147,15.0,6.0,258.0,110.0,3730.0,19.0,75,1,amc matador,Normal,amc,matador,1,Normal,0,0
+101,15.0,8.0,350.0,145.0,4082.0,13.0,73,1,chevrolet monte carlo s,Normal,chevrolet,monte carlo s,1,Normal,5,0
+209,15.0,8.0,302.0,130.0,4295.0,14.9,77,1,mercury cougar brougham,Normal,mercury,cougar brougham,1,Normal,14,0
+1,15.0,8.0,350.0,165.0,3693.0,11.5,70,1,buick skylark 320,Normal,buick,skylark 320,1,Normal,3,0
+8,15.0,8.0,400.0,150.0,3761.0,9.5,70,1,chevrolet monte carlo,Normal,chevrolet,monte carlo,1,Normal,5,0
+7,15.0,8.0,383.0,170.0,3563.0,10.0,70,1,dodge challenger se,Normal,dodge,challenger se,1,Normal,8,0
+5,15.0,8.0,429.0,198.0,4341.0,10.0,70,1,ford galaxie 500,Normal,ford,galaxie 500,1,Normal,10,0
+6,15.0,8.0,390.0,190.0,3850.0,8.5,70,1,amc ambassador dpl,Normal,amc,ambassador dpl,1,Normal,0,0
+106,15.0,8.0,318.0,150.0,3399.0,11.0,73,1,dodge dart custom,Normal,dodge,dart custom,1,Normal,8,0
+215,15.5,8.0,350.0,170.0,4165.0,11.4,77,1,chevrolet monte carlo landau,Normal,chevrolet,monte carlo landau,1,Normal,5,0
+216,15.5,8.0,400.0,190.0,4325.0,12.2,77,1,chrysler cordoba,Normal,chrysler,cordoba,1,Normal,6,0
+174,15.5,8.0,304.0,120.0,3962.0,13.9,76,1,amc matador,Normal,amc,matador,1,Normal,0,0
+275,15.5,8.0,351.0,142.0,4054.0,14.3,79,1,ford country squire (sw),Normal,ford,country squire (sw),1,Normal,10,0
+208,15.5,8.0,318.0,145.0,4140.0,13.7,77,1,dodge monaco brougham,Normal,dodge,monaco brougham,1,Normal,8,0
+119,16.0,6.0,258.0,110.0,3632.0,18.0,74,1,amc matador,Normal,amc,matador,1,Normal,0,0
+214,16.0,8.0,400.0,180.0,4220.0,11.1,77,1,pontiac grand prix lj,Normal,pontiac,grand prix lj,1,Normal,20,0
+141,16.0,8.0,400.0,170.0,4668.0,11.5,75,1,pontiac catalina,Normal,pontiac,catalina,1,Normal,20,0
+121,16.0,8.0,302.0,140.0,4141.0,14.0,74,1,ford gran torino,Normal,ford,gran torino,1,Normal,10,0
+217,16.0,8.0,351.0,149.0,4335.0,14.5,77,1,ford thunderbird,Normal,ford,thunderbird,1,Normal,10,0
+143,16.0,8.0,318.0,150.0,4498.0,14.5,75,1,plymouth grand fury,Normal,plymouth,grand fury,1,Normal,19,0
+173,16.0,8.0,318.0,150.0,4190.0,13.0,76,1,dodge coronet brougham,Normal,dodge,coronet brougham,1,Normal,8,0
+146,16.0,6.0,250.0,105.0,3897.0,18.5,75,1,chevroelt chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
+118,16.0,6.0,250.0,100.0,3781.0,17.0,74,1,chevrolet chevelle malibu classic,Normal,chevrolet,chevelle malibu classic,1,Normal,5,0
+26,16.0,6.0,225.0,105.0,3439.0,15.5,71,1,plymouth satellite custom,Normal,plymouth,satellite custom,1,Normal,19,0
+3,16.0,8.0,304.0,150.0,3433.0,12.0,70,1,amc rebel sst,Normal,amc,rebel sst,1,Normal,0,0
+85,16.0,6.0,250.0,100.0,3278.0,18.0,73,1,chevrolet nova custom,Normal,chevrolet,nova custom,1,Normal,5,0
+262,16.2,6.0,163.0,133.0,3410.0,15.8,78,2,peugeot 604sl,Normal,peugeot,604sl,1,Normal,18,0
+197,16.5,8.0,350.0,180.0,4380.0,12.1,76,1,cadillac seville,Normal,cadillac,seville,1,Normal,4,0
+272,16.5,8.0,351.0,138.0,3955.0,13.2,79,1,mercury grand marquis,Normal,mercury,grand marquis,1,Normal,14,0
+196,16.5,6.0,168.0,120.0,3820.0,16.7,76,2,mercedes-benz 280s,Normal,mercedes,280s,1,Normal,13,0
+274,16.9,8.0,350.0,155.0,4360.0,14.9,79,1,buick estate wagon (sw),Normal,buick,estate wagon (sw),1,Normal,3,0
+57,17.0,8.0,304.0,150.0,3672.0,11.5,72,1,amc ambassador sst,Normal,amc,ambassador sst,1,Normal,0,0
+4,17.0,8.0,302.0,140.0,3449.0,10.5,70,1,ford torino,Normal,ford,torino,1,Normal,10,0
+260,17.0,6.0,163.0,125.0,3140.0,13.6,78,2,volvo 264gl,Normal,volvo,264gl,1,Normal,27,0
+270,17.0,8.0,305.0,130.0,3840.0,15.4,79,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
+145,17.0,6.0,231.0,110.0,3907.0,21.0,75,1,buick century,Normal,buick,century,1,Normal,3,0
+207,17.0,8.0,260.0,110.0,4060.0,19.0,77,1,oldsmobile cutlass supreme,Normal,oldsmobile,cutlass supreme,1,Normal,16,0
+27,17.0,6.0,250.0,100.0,3329.0,15.5,71,1,chevrolet chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
+187,17.5,6.0,258.0,95.0,3193.0,17.8,76,1,amc pacer d/l,Normal,amc,pacer d/l,1,Normal,0,0
+250,17.5,8.0,318.0,140.0,4080.0,13.7,78,1,dodge magnum xe,Normal,dodge,magnum xe,1,Normal,8,0
+210,17.5,6.0,250.0,110.0,3520.0,16.4,77,1,chevrolet concours,Normal,chevrolet,concours,1,Normal,5,0
+206,17.5,8.0,305.0,145.0,3880.0,12.5,77,1,chevrolet caprice classic,Normal,chevrolet,caprice classic,1,Normal,5,0
+172,17.5,8.0,305.0,140.0,4215.0,13.0,76,1,chevrolet chevelle malibu classic,Normal,chevrolet,chevelle malibu classic,1,Normal,5,0
+344,17.6,6.0,225.0,85.0,3465.0,16.6,81,1,chrysler lebaron salon,Normal,chrysler,lebaron salon,1,Normal,6,0
+271,17.6,8.0,302.0,129.0,3725.0,13.4,79,1,ford ltd landau,Normal,ford,ltd landau,1,Normal,10,0
+248,17.7,6.0,231.0,165.0,3445.0,13.4,78,1,buick regal sport coupe (turbo),Normal,buick,regal sport coupe (turbo),1,Normal,3,0
+120,18.0,6.0,225.0,105.0,3613.0,16.5,74,1,plymouth satellite sebring,Normal,plymouth,satellite sebring,1,Normal,19,0
+138,18.0,6.0,250.0,105.0,3459.0,16.0,75,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,0
+185,18.0,6.0,250.0,78.0,3574.0,21.0,76,1,ford granada ghia,Normal,ford,granada ghia,1,Normal,10,0
+159,18.0,6.0,171.0,97.0,2984.0,14.5,75,1,ford pinto,Normal,ford,pinto,1,Normal,10,0
+148,18.0,6.0,225.0,95.0,3785.0,19.0,75,1,plymouth fury,Normal,plymouth,fury,1,Normal,19,0
+0,18.0,8.0,307.0,130.0,3504.0,12.0,70,1,chevrolet chevelle malibu,Normal,chevrolet,chevelle malibu,1,Normal,5,0
+66,18.0,4.0,121.0,112.0,2933.0,14.5,72,2,volvo 145e (sw),Normal,volvo,145e (sw),1,Normal,27,0
+11,18.0,6.0,199.0,97.0,2774.0,15.5,70,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
+2,18.0,8.0,318.0,150.0,3436.0,11.0,70,1,plymouth satellite,Normal,plymouth,satellite,1,Normal,19,0
+29,18.0,6.0,232.0,100.0,3288.0,15.5,71,1,amc matador,Normal,amc,matador,1,Normal,0,0
+94,18.0,6.0,232.0,100.0,2789.0,15.0,73,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,0
+84,18.0,6.0,225.0,105.0,3121.0,16.5,73,1,plymouth valiant,Normal,plymouth,valiant,1,Normal,19,0
+86,18.0,6.0,232.0,100.0,2945.0,16.0,73,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
+37,18.0,6.0,258.0,110.0,2962.0,13.5,71,1,amc hornet sportabout (sw),Normal,amc,hornet sportabout (sw),1,Normal,0,0
+87,18.0,6.0,250.0,88.0,3021.0,16.5,73,1,ford maverick,Normal,ford,maverick,1,Normal,10,0
+40,18.0,6.0,250.0,88.0,3139.0,14.5,71,1,ford mustang,Normal,ford,mustang,1,Normal,10,0
+249,18.1,8.0,302.0,139.0,3205.0,11.2,78,1,ford futura,Normal,ford,futura,1,Normal,10,0
+246,18.1,6.0,258.0,120.0,3410.0,15.1,78,1,amc concord d/l,Normal,amc,concord d/l,1,Normal,0,0
+273,18.2,8.0,318.0,135.0,3830.0,15.2,79,1,dodge st. regis,Normal,dodge,st. regis,1,Normal,8,0
+277,18.5,8.0,360.0,150.0,3940.0,13.0,79,1,chrysler lebaron town @ country (sw),Normal,chrysler,lebaron town @ country (sw),1,Normal,6,0
+213,18.5,6.0,250.0,98.0,3525.0,19.0,77,1,ford granada,Normal,ford,granada,1,Normal,10,0
+186,18.5,6.0,250.0,110.0,3645.0,16.2,76,1,pontiac ventura sj,Normal,pontiac,ventura sj,1,Normal,20,0
+245,18.6,6.0,225.0,110.0,3620.0,18.7,78,1,dodge aspen,Normal,dodge,aspen,1,Normal,8,0
+61,19.0,3.0,70.0,97.0,2330.0,13.5,72,3,mazda rx2 coupe,Normal,mazda,rx2 coupe,1,Normal,12,0
+161,19.0,6.0,232.0,90.0,3211.0,17.0,75,1,amc pacer,Normal,amc,pacer,1,Normal,0,0
+194,19.0,4.0,120.0,88.0,3270.0,21.9,76,2,peugeot 504,Normal,peugeot,504,1,Normal,18,0
+137,19.0,6.0,225.0,95.0,3264.0,16.0,75,1,plymouth valiant custom,Normal,plymouth,valiant custom,1,Normal,19,0
+39,19.0,6.0,250.0,100.0,3282.0,15.0,71,1,pontiac firebird,Normal,pontiac,firebird,1,Normal,20,0
+112,19.0,6.0,232.0,100.0,2901.0,16.0,74,1,amc hornet,Normal,amc,hornet,1,Normal,0,0
+28,19.0,6.0,250.0,88.0,3302.0,15.5,71,1,ford torino 500,Normal,ford,torino 500,1,Normal,10,0
+25,19.0,6.0,232.0,100.0,2634.0,13.0,71,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,0
+105,19.0,4.0,121.0,112.0,2868.0,15.5,73,2,volvo 144ea,Normal,volvo,144ea,1,Normal,27,0
+212,19.0,6.0,225.0,100.0,3630.0,17.7,77,1,plymouth volare custom,Normal,plymouth,volare custom,1,Normal,19,0
+98,19.0,4.0,122.0,85.0,2310.0,18.5,73,1,ford pinto,Normal,ford,pinto,1,Normal,10,0
+195,19.0,6.0,156.0,108.0,2930.0,15.5,76,3,toyota mark ii,Normal,toyota,mark ii,1,Normal,24,0
+299,19.1,6.0,225.0,90.0,3381.0,18.7,80,1,dodge aspen,Normal,dodge,aspen,1,Normal,8,1
+247,19.2,8.0,305.0,145.0,3425.0,13.2,78,1,chevrolet monte carlo landau,Normal,chevrolet,monte carlo landau,1,Normal,5,1
+276,19.2,8.0,267.0,125.0,3605.0,15.0,79,1,chevrolet malibu classic (sw),Normal,chevrolet,malibu classic (sw),1,Normal,5,1
+237,19.2,6.0,231.0,105.0,3535.0,19.2,78,1,pontiac phoenix lj,Normal,pontiac,phoenix lj,1,Normal,20,1
+235,19.4,8.0,318.0,140.0,3735.0,13.2,78,1,dodge diplomat,Normal,dodge,diplomat,1,Normal,8,1
+242,19.4,6.0,232.0,90.0,3210.0,17.2,78,1,amc concord,Normal,amc,concord,1,Normal,0,1
+266,19.8,6.0,200.0,85.0,2990.0,18.2,79,1,mercury zephyr 6,Normal,mercury,zephyr 6,1,Normal,14,1
+234,19.9,8.0,260.0,110.0,3365.0,15.5,78,1,oldsmobile cutlass salon brougham,Normal,oldsmobile,cutlass salon brougham,1,Normal,16,1
+108,20.0,6.0,156.0,122.0,2807.0,13.5,73,3,toyota mark ii,Normal,toyota,mark ii,1,Normal,24,1
+110,20.0,6.0,198.0,95.0,3102.0,16.5,74,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
+95,20.0,4.0,97.0,88.0,2279.0,19.0,73,3,toyota carina,Normal,toyota,carina,1,Normal,24,1
+192,20.0,4.0,130.0,102.0,3150.0,15.7,76,2,volvo 245,Normal,volvo,245,1,Normal,27,1
+184,20.0,6.0,225.0,100.0,3651.0,17.7,76,1,dodge aspen se,Normal,dodge,aspen se,1,Normal,8,1
+104,20.0,4.0,114.0,91.0,2582.0,14.0,73,2,audi 100ls,Normal,audi,100ls,1,Normal,1,1
+51,20.0,4.0,140.0,90.0,2408.0,19.5,72,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
+150,20.0,8.0,262.0,110.0,3221.0,13.5,75,1,chevrolet monza 2+2,Normal,chevrolet,monza 2+2,1,Normal,5,1
+154,20.0,6.0,232.0,100.0,2914.0,16.0,75,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,1
+343,20.2,6.0,200.0,88.0,3060.0,17.1,81,1,ford granada gl,Normal,ford,granada gl,1,Normal,10,1
+268,20.2,6.0,232.0,90.0,3265.0,18.2,79,1,amc concord dl 6,Normal,amc,concord dl 6,1,Normal,0,1
+239,20.2,6.0,200.0,85.0,2965.0,15.8,78,1,ford fairmont (auto),Normal,ford,fairmont (auto),1,Normal,10,1
+236,20.2,8.0,302.0,139.0,3570.0,12.8,78,1,mercury monarch ghia,Normal,mercury,monarch ghia,1,Normal,14,1
+259,20.3,5.0,131.0,103.0,2830.0,15.9,78,2,audi 5000,Normal,audi,5000,1,Normal,1,1
+241,20.5,6.0,225.0,100.0,3430.0,17.2,78,1,plymouth volare,Normal,plymouth,volare,1,Normal,19,1
+238,20.5,6.0,200.0,95.0,3155.0,18.2,78,1,chevrolet malibu,Normal,chevrolet,malibu,1,Normal,5,1
+211,20.5,6.0,231.0,105.0,3425.0,16.9,77,1,buick skylark,Normal,buick,skylark,1,Normal,3,1
+243,20.6,6.0,231.0,105.0,3380.0,15.8,78,1,buick century special,Normal,buick,century special,1,Normal,3,1
+269,20.6,6.0,225.0,110.0,3360.0,16.6,79,1,dodge aspen 6,Normal,dodge,aspen 6,1,Normal,8,1
+244,20.8,6.0,200.0,85.0,3070.0,16.7,78,1,mercury zephyr,Normal,mercury,zephyr,1,Normal,14,1
+52,21.0,4.0,122.0,86.0,2226.0,16.5,72,1,ford pinto runabout,Normal,ford,pinto runabout,1,Normal,10,1
+96,21.0,4.0,140.0,72.0,2401.0,19.5,73,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
+111,21.0,6.0,200.0,88.0,2875.0,17.0,74,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
+12,21.0,6.0,200.0,85.0,2587.0,16.0,70,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
+19,21.0,6.0,199.0,90.0,2648.0,15.0,70,1,amc gremlin,Normal,amc,gremlin,1,Normal,0,1
+99,21.0,6.0,155.0,107.0,2472.0,14.0,73,1,mercury capri v6,Normal,mercury,capri v6,1,Normal,14,1
+68,21.0,4.0,120.0,87.0,2979.0,19.5,72,2,peugeot 504 (sw),Normal,peugeot,504 (sw),1,Normal,18,1
+149,21.0,6.0,231.0,110.0,3039.0,15.0,75,1,buick skyhawk,Normal,buick,skyhawk,1,Normal,3,1
+255,21.1,4.0,134.0,95.0,2515.0,14.8,78,3,toyota celica gt liftback,Normal,toyota,celica gt liftback,1,Normal,24,1
+265,21.5,6.0,231.0,115.0,3245.0,15.4,79,1,pontiac lemans v6,Normal,pontiac,lemans v6,1,Normal,20,1
+228,21.5,3.0,80.00000000000001,110.0,2720.0,13.5,77,3,mazda rx-4,Normal,mazda,rx-4,1,Normal,12,1
+227,21.5,4.0,121.0,110.0,2600.0,12.8,77,2,bmw 320i,Normal,bmw,320i,1,Normal,2,1
+261,21.6,4.0,121.0,115.0,2795.0,15.7,78,2,saab 99gle,Normal,saab,99gle,1,Normal,22,1
+38,22.0,4.0,140.0,72.0,2408.0,19.0,71,1,chevrolet vega (sw),Normal,chevrolet,vega (sw),1,Normal,5,1
+70,22.0,4.0,122.0,86.0,2395.0,16.0,72,1,ford pinto (sw),Normal,ford,pinto (sw),1,Normal,10,1
+97,22.0,4.0,108.0,94.0,2379.0,16.5,73,3,datsun 610,Normal,datsun,610,1,Normal,7,1
+67,22.0,4.0,121.0,76.0,2511.0,18.0,72,2,volkswagen 411 (sw),Normal,volkswagen,411 (sw),1,Normal,26,1
+177,22.0,6.0,250.0,105.0,3353.0,14.5,76,1,chevrolet nova,Normal,chevrolet,nova,1,Normal,5,1
+367,22.0,6.0,232.0,112.0,2835.0,14.7,82,1,ford granada l,Normal,ford,granada l,1,Normal,10,1
+226,22.0,6.0,146.0,97.0,2815.0,14.5,77,3,datsun 810,Normal,datsun,810,1,Normal,7,1
+10,22.0,6.0,198.0,95.0,2833.0,15.5,70,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
+164,22.0,4.0,121.0,98.0,2945.0,14.5,75,2,volvo 244dl,Normal,volvo,244dl,1,Normal,27,1
+176,22.0,6.0,225.0,100.0,3233.0,15.4,76,1,plymouth valiant,Normal,plymouth,valiant,1,Normal,19,1
+267,22.3,4.0,140.0,88.0,2890.0,17.3,79,1,ford fairmont 4,Normal,ford,fairmont 4,1,Normal,10,1
+342,22.4,6.0,231.0,110.0,3415.0,15.8,81,1,buick century,Normal,buick,century,1,Normal,3,1
+179,22.5,6.0,232.0,90.0,3085.0,17.6,76,1,amc hornet,Normal,amc,hornet,1,Normal,0,1
+162,23.0,4.0,115.0,95.0,2694.0,15.0,75,2,audi 100ls,Normal,audi,100ls,1,Normal,1,1
+155,23.0,4.0,140.0,78.0,2592.0,18.5,75,1,pontiac astro,Normal,pontiac,astro,1,Normal,20,1
+163,23.0,4.0,120.0,88.0,2957.0,17.0,75,2,peugeot 504,Normal,peugeot,504,1,Normal,18,1
+153,23.0,4.0,140.0,83.0,2639.0,17.0,75,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
+283,23.0,8.0,350.0,125.0,3900.0,17.4,79,1,cadillac eldorado,Normal,cadillac,eldorado,1,Normal,4,1
+72,23.0,4.0,120.0,97.0,2506.0,14.5,72,3,toyouta corona mark ii (sw),Normal,toyota,corona mark ii (sw),1,Normal,24,1
+88,23.0,6.0,198.0,95.0,2904.0,16.0,73,1,plymouth duster,Normal,plymouth,duster,1,Normal,19,1
+41,23.0,4.0,122.0,86.0,2220.0,14.0,71,1,mercury capri 2000,Normal,mercury,capri 2000,1,Normal,14,1
+352,23.0,4.0,151.0,90.0,3035.0,20.5,82,1,amc concord dl,Normal,amc,concord dl,1,Normal,0,1
+256,23.2,4.0,156.0,105.0,2745.0,16.7,78,1,plymouth sapporo,Normal,plymouth,sapporo,1,Normal,19,1
+320,23.5,6.0,173.0,110.0,2725.0,12.6,81,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,1
+315,23.6,4.0,140.0,98.0,2905.0,14.3,80,1,ford mustang cobra,Normal,ford,mustang cobra,1,Normal,10,1
+257,23.8,4.0,151.0,85.0,2855.0,17.6,78,1,oldsmobile starfire sx,Normal,oldsmobile,starfire sx,1,Normal,16,1
+258,23.9,4.0,119.0,97.0,2405.0,14.9,78,3,datsun 200-sx,Normal,datsun,200-sx,1,Normal,7,1
+158,24.0,4.0,119.0,97.0,2545.0,17.0,75,3,datsun 710,Normal,datsun,710,1,Normal,7,1
+156,24.0,4.0,134.0,96.0,2702.0,13.5,75,3,toyota corona,Normal,toyota,corona,1,Normal,24,1
+107,24.0,4.0,121.0,110.0,2660.0,14.0,73,2,saab 99le,Normal,saab,99le,1,Normal,22,1
+103,24.0,4.0,116.0,75.0,2158.0,15.5,73,2,opel manta,Normal,opel,manta,1,Normal,17,1
+49,24.0,4.0,113.0,95.0,2278.0,15.5,72,3,toyota corona hardtop,Normal,toyota,corona hardtop,1,Normal,24,1
+134,24.0,4.0,120.0,97.0,2489.0,15.0,74,3,honda civic,Normal,honda,civic,1,Normal,11,1
+351,24.0,4.0,140.0,92.0,2865.0,16.4,82,1,ford fairmont futura,Normal,ford,fairmont futura,1,Normal,10,1
+16,24.0,4.0,107.0,90.0,2430.0,14.5,70,2,audi 100 ls,Normal,audi,100 ls,1,Normal,1,1
+132,24.0,4.0,90.0,75.0,2108.0,15.5,74,2,fiat 128,Normal,fiat,128,1,Normal,9,1
+178,24.0,6.0,200.0,81.0,3012.0,17.6,76,1,ford maverick,Normal,ford,maverick,1,Normal,10,1
+9,24.0,4.0,113.0,95.0,2372.0,15.0,70,3,toyota corona mark ii,Normal,toyota,corona mark ii,1,Normal,24,1
+341,24.2,6.0,146.0,120.0,2930.0,13.8,81,3,datsun 810 maxima,Normal,datsun,810 maxima,1,Normal,7,1
+298,24.3,4.0,151.0,90.0,3003.0,20.1,80,1,amc concord,Normal,amc,concord,1,Normal,0,1
+181,24.5,4.0,98.0,60.0,2164.0,22.1,76,1,chevrolet woody,Normal,chevrolet,woody,1,Normal,5,1
+219,24.5,4.0,151.0,88.0,2740.0,16.0,77,1,pontiac sunbird coupe,Normal,pontiac,sunbird coupe,1,Normal,20,1
+15,25.0,4.0,110.0,87.0,2672.0,17.5,70,2,peugeot 504,Normal,peugeot,504,1,Normal,18,1
+24,25.0,4.0,98.0,60.0,2046.0,19.0,71,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
+50,25.0,4.0,97.5,80.0,2126.0,17.0,72,1,dodge colt hardtop,Normal,dodge,colt hardtop,1,Normal,8,1
+157,25.0,4.0,90.0,71.0,2223.0,16.5,75,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,1
+168,25.0,4.0,116.0,81.0,2220.0,16.9,76,2,opel 1900,Normal,opel,1900,1,Normal,17,1
+169,25.0,4.0,140.0,92.0,2572.0,14.9,76,1,capri ii,Normal,mercury,ii,1,Normal,14,1
+23,25.0,4.0,113.0,95.0,2228.0,14.0,71,3,toyota corona,Normal,toyota,corona,1,Normal,24,1
+165,25.0,4.0,121.0,115.0,2671.0,13.5,75,2,saab 99le,Normal,saab,99le,1,Normal,22,1
+117,25.0,4.0,140.0,75.0,2542.0,17.0,74,1,chevrolet vega,Normal,chevrolet,vega,1,Normal,5,1
+364,25.0,6.0,181.0,110.0,2945.0,16.4,82,1,buick century limited,Normal,buick,century limited,1,Normal,3,1
+17,25.0,4.0,104.0,95.0,2375.0,17.5,70,2,saab 99e,Normal,saab,99e,1,Normal,22,1
+240,25.1,4.0,140.0,88.0,2720.0,15.4,78,1,ford fairmont (man),Normal,ford,fairmont (man),1,Normal,10,1
+340,25.4,6.0,168.0,116.0,2900.0,12.6,81,3,toyota cressida,Normal,toyota,cressida,1,Normal,24,1
+282,25.4,5.0,183.0,77.0,3530.0,20.1,79,2,mercedes benz 300d,Normal,mercedes,benz 300d,1,Normal,13,1
+204,25.5,4.0,122.0,96.0,2300.0,15.5,77,1,plymouth arrow gs,Normal,plymouth,arrow gs,1,Normal,19,1
+221,25.5,4.0,140.0,89.0,2755.0,15.8,77,1,ford mustang ii 2+2,Normal,ford,mustang ii 2+2,1,Normal,10,1
+319,25.8,4.0,156.0,92.0,2620.0,14.4,81,1,dodge aries wagon (sw),Normal,dodge,aries wagon (sw),1,Normal,8,1
+366,26.0,4.0,156.0,92.0,2585.0,14.5,82,1,chrysler lebaron medallion,Normal,chrysler,lebaron medallion,1,Normal,6,1
+14,26.0,4.0,97.0,46.0,1835.0,20.5,70,2,volkswagen 1131 deluxe sedan,Normal,volkswagen,1131 deluxe sedan,1,Normal,26,1
+100,26.0,4.0,98.0,90.0,2265.0,15.5,73,2,fiat 124 sport coupe,Normal,fiat,124 sport coupe,1,Normal,9,1
+128,26.0,4.0,97.0,78.0,2300.0,14.5,74,2,opel manta,Normal,opel,manta,1,Normal,17,1
+89,26.0,4.0,97.0,46.0,1950.0,21.0,73,2,volkswagen super beetle,Normal,volkswagen,super beetle,1,Normal,26,1
+127,26.0,4.0,79.0,67.0,1963.0,15.5,74,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,1
+133,26.0,4.0,116.0,75.0,2246.0,14.0,74,2,fiat 124 tc,Normal,fiat,124 tc,1,Normal,9,1
+135,26.0,4.0,108.0,93.0,2391.0,15.5,74,3,subaru,Normal,subaru,,1,Normal,23,1
+69,26.0,4.0,96.0,69.0,2189.0,18.0,72,2,renault 12 (sw),Normal,renault,12 (sw),1,Normal,21,1
+220,26.0,4.0,97.0,75.0,2265.0,18.2,77,3,toyota corolla liftback,Normal,toyota,corolla liftback,1,Normal,24,1
+48,26.0,4.0,91.0,70.0,1955.0,20.5,71,1,plymouth cricket,Normal,plymouth,cricket,1,Normal,19,1
+18,26.0,4.0,121.0,113.0,2234.0,12.5,70,2,bmw 2002,Normal,bmw,2002,1,Normal,2,1
+115,26.0,4.0,122.0,80.0,2451.0,16.5,74,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
+170,26.0,4.0,98.0,79.0,2255.0,17.7,76,1,dodge colt,Normal,dodge,colt,1,Normal,8,1
+297,26.4,4.0,140.0,88.0,2870.0,18.1,80,1,ford fairmont,Normal,ford,fairmont,1,Normal,10,1
+191,26.5,4.0,140.0,72.0,2565.0,13.6,76,1,ford pinto,Normal,ford,pinto,1,Normal,10,1
+318,26.6,4.0,151.0,84.0,2635.0,16.4,81,1,buick skylark,Normal,buick,skylark,1,Normal,3,1
+290,26.8,6.0,173.0,115.0,2700.0,12.9,79,1,oldsmobile omega brougham,Normal,oldsmobile,omega brougham,1,Normal,16,1
+13,27.0,4.0,97.0,88.0,2130.0,14.5,70,3,datsun pl510,Normal,datsun,pl510,1,Normal,7,1
+171,27.0,4.0,101.0,83.0,2202.0,15.3,76,2,renault 12tl,Normal,renault,12tl,1,Normal,21,1
+74,27.0,4.0,97.0,88.0,2100.0,16.5,72,3,toyota corolla 1600 (sw),Normal,toyota,corolla 1600 (sw),1,Normal,24,1
+47,27.0,4.0,97.0,60.0,1834.0,19.0,71,2,volkswagen model 111,Normal,volkswagen,model 111,1,Normal,26,1
+371,27.0,4.0,140.0,86.0,2790.0,15.6,82,1,ford mustang gl,Normal,ford,mustang gl,1,Normal,10,1
+370,27.0,4.0,151.0,90.0,2950.0,17.3,82,1,chevrolet camaro,Normal,chevrolet,camaro,1,Normal,5,1
+350,27.0,4.0,151.0,90.0,2735.0,18.0,82,1,pontiac phoenix,Normal,pontiac,phoenix,1,Normal,20,1
+346,27.0,4.0,112.0,88.0,2640.0,18.6,82,1,chevrolet cavalier wagon,Normal,chevrolet,cavalier wagon,1,Normal,5,1
+21,27.0,4.0,97.0,88.0,2130.0,14.5,71,3,datsun pl510,Normal,datsun,pl510,1,Normal,7,1
+317,27.2,4.0,135.0,84.0,2490.0,15.7,81,1,plymouth reliant,Normal,plymouth,reliant,1,Normal,19,2
+253,27.2,4.0,119.0,97.0,2300.0,14.7,78,3,datsun 510,Normal,datsun,510,1,Normal,7,2
+281,27.4,4.0,121.0,80.0,2670.0,15.0,79,1,amc spirit dl,Normal,amc,spirit dl,1,Normal,0,2
+252,27.5,4.0,134.0,95.0,2560.0,14.2,78,3,toyota corona,Normal,toyota,corona,1,Normal,24,2
+305,27.9,4.0,156.0,105.0,2800.0,14.4,80,1,dodge colt,Normal,dodge,colt,1,Normal,8,2
+345,28.0,4.0,112.0,88.0,2605.0,19.6,82,1,chevrolet cavalier,Normal,chevrolet,cavalier,1,Normal,5,2
+71,28.0,4.0,97.0,92.0,2288.0,17.0,72,3,datsun 510 (sw),Normal,datsun,510 (sw),1,Normal,7,2
+131,28.0,4.0,90.0,75.0,2125.0,14.5,74,1,dodge colt,Normal,dodge,colt,1,Normal,8,2
+296,28.0,4.0,151.0,90.0,2678.0,16.5,80,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,2
+167,28.0,4.0,107.0,86.0,2464.0,15.5,76,2,fiat 131,Normal,fiat,131,1,Normal,9,2
+22,28.0,4.0,140.0,90.0,2264.0,15.5,71,1,chevrolet vega 2300,Normal,chevrolet,vega 2300,1,Normal,5,2
+73,28.0,4.0,98.0,80.0,2164.0,15.0,72,1,dodge colt (sw),Normal,dodge,colt (sw),1,Normal,8,2
+373,28.0,4.0,120.0,79.0,2625.0,18.6,82,1,ford ranger,Normal,ford,ranger,1,Normal,10,2
+190,28.0,4.0,97.0,75.0,2155.0,16.4,76,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
+42,28.0,4.0,116.0,90.0,2123.0,14.0,71,2,opel 1900,Normal,opel,1900,1,Normal,17,2
+338,28.1,4.0,141.0,80.0,3230.0,20.4,81,2,peugeot 505s turbo diesel,Normal,peugeot,505s turbo diesel,1,Normal,18,2
+288,28.4,4.0,151.0,90.0,2670.0,16.0,79,1,buick skylark limited,Normal,buick,skylark limited,1,Normal,3,2
+289,28.8,6.0,173.0,115.0,2595.0,11.3,79,1,chevrolet citation,Normal,chevrolet,citation,1,Normal,5,2
+102,29.0,4.0,68.0,48.99999999999999,1867.0,19.5,73,2,fiat 128,Normal,fiat,128,1,Normal,9,2
+160,29.0,4.0,90.0,70.0,1937.0,14.0,75,2,volkswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
+218,29.0,4.0,97.0,78.0,1940.0,14.5,77,2,volkswagen rabbit custom,Normal,volkswagen,rabbit custom,1,Normal,26,2
+152,29.0,4.0,97.0,75.0,2171.0,16.0,75,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
+180,29.0,4.0,85.00000000000001,52.0,2035.0,22.2,76,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
+349,29.0,4.0,135.0,84.0,2525.0,16.0,82,1,dodge aries se,Normal,dodge,aries se,1,Normal,8,2
+182,29.0,4.0,90.0,70.0,1937.0,14.2,76,2,vw rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
+126,29.0,4.0,98.0,83.0,2219.0,16.5,74,2,audi fox,Normal,audi,fox,1,Normal,1,2
+264,29.5,4.0,98.0,68.0,2135.0,16.6,78,3,honda accord lx,Normal,honda,accord lx,1,Normal,11,2
+188,29.5,4.0,97.0,71.0,1825.0,12.2,76,2,volkswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
+313,29.8,4.0,88.99999999999999,61.99999999999999,1845.0,15.3,80,2,vokswagen rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
+301,29.8,4.0,134.0,90.0,2711.0,15.5,80,3,toyota corona liftback,Normal,toyota,corona liftback,1,Normal,24,2
+331,29.9,4.0,98.0,65.0,2380.0,20.7,81,1,ford escort 2h,Normal,ford,escort 2h,1,Normal,10,2
+321,30.0,4.0,135.0,84.0,2385.0,12.9,81,1,plymouth reliant,Normal,plymouth,reliant,1,Normal,19,2
+44,30.0,4.0,87.99999999999999,76.0,2065.0,14.5,71,2,fiat 124b,Normal,fiat,124b,1,Normal,9,2
+43,30.0,4.0,79.0,70.0,2074.0,19.5,71,2,peugeot 304,Normal,peugeot,304,1,Normal,18,2
+251,30.0,4.0,98.0,68.0,2155.0,16.5,78,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
+309,30.0,4.0,146.0,67.0,3250.0,21.8,80,2,mercedes-benz 240d,Normal,mercedes,240d,1,Normal,13,2
+202,30.0,4.0,111.0,80.0,2155.0,14.8,77,1,buick opel isuzu deluxe,Normal,buick,opel isuzu deluxe,1,Normal,3,2
+224,30.0,4.0,97.0,67.0,1985.0,16.4,77,3,subaru dl,Normal,subaru,dl,1,Normal,23,2
+222,30.5,4.0,98.0,63.0,2051.0,17.0,77,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
+225,30.5,4.0,97.0,78.0,2190.0,14.1,77,2,volkswagen dasher,Normal,volkswagen,dasher,1,Normal,26,2
+339,30.7,6.0,145.0,76.0,3160.0,19.6,81,2,volvo diesel,Normal,volvo,diesel,1,Normal,27,2
+254,30.9,4.0,105.0,75.0,2230.0,14.5,78,1,dodge omni,Normal,dodge,omni,1,Normal,8,2
+114,31.0,4.0,79.0,67.0,1950.0,19.0,74,3,datsun b210,Normal,datsun,b210,1,Normal,7,2
+348,31.0,4.0,112.0,85.0,2575.0,16.2,82,1,pontiac j2000 se hatchback,Normal,pontiac,j2000 se hatchback,1,Normal,20,2
+129,31.0,4.0,76.0,52.0,1649.0,16.5,74,3,toyota corona,Normal,toyota,corona,1,Normal,24,2
+374,31.0,4.0,119.0,82.0,2720.0,19.4,82,1,chevy s-10,Normal,chevrolet,s-10,1,Normal,5,2
+355,31.0,4.0,91.0,68.0,1970.0,17.6,82,3,mazda glc custom,Normal,mazda,glc custom,1,Normal,12,2
+136,31.0,4.0,79.0,67.0,2000.0,16.0,74,2,fiat x1.9,Normal,fiat,x1.9,1,Normal,9,2
+45,31.0,4.0,71.0,65.0,1773.0,19.0,71,3,toyota corolla 1200,Normal,toyota,corolla 1200,1,Normal,24,2
+302,31.3,4.0,120.0,75.0,2542.0,17.5,80,3,mazda 626,Normal,mazda,626,1,Normal,12,2
+201,31.5,4.0,98.0,68.0,2045.0,18.5,77,3,honda accord cvcc,Normal,honda,accord cvcc,1,Normal,11,2
+263,31.5,4.0,88.99999999999999,71.0,1990.0,14.9,78,2,volkswagen scirocco,Normal,volkswagen,scirocco,1,Normal,26,2
+337,31.6,4.0,120.0,74.0,2635.0,18.3,81,3,mazda 626,Normal,mazda,626,1,Normal,12,2
+286,31.8,4.0,85.00000000000001,65.0,2020.0,19.2,79,3,datsun 210,Normal,datsun,210,1,Normal,7,2
+278,31.9,4.0,88.99999999999999,71.0,1925.0,14.0,79,2,vw rabbit custom,Normal,volkswagen,rabbit custom,1,Normal,26,2
+368,32.0,4.0,144.0,96.0,2665.0,13.9,82,3,toyota celica gt,Normal,toyota,celica gt,1,Normal,24,2
+372,32.0,4.0,135.0,84.0,2295.0,11.6,82,1,dodge rampage,Normal,dodge,rampage,1,Normal,8,2
+362,32.0,4.0,91.0,67.0,1965.0,15.7,82,3,honda civic (auto),Normal,honda,civic (auto),1,Normal,11,2
+189,32.0,4.0,85.00000000000001,70.0,1990.0,17.0,76,3,datsun b-210,Normal,datsun,b-210,1,Normal,7,2
+130,32.0,4.0,83.00000000000001,61.0,2003.0,19.0,74,3,datsun 710,Normal,datsun,710,1,Normal,7,2
+116,32.0,4.0,71.0,65.0,1836.0,21.0,74,3,toyota corolla 1200,Normal,toyota,corolla 1200,1,Normal,24,2
+294,32.1,4.0,98.0,70.0,2120.0,15.5,80,1,chevrolet chevette,Normal,chevrolet,chevette,1,Normal,5,2
+304,32.2,4.0,108.0,75.0,2265.0,15.2,80,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
+325,32.3,4.0,97.0,67.0,2065.0,17.8,81,3,subaru,Normal,subaru,,1,Normal,23,2
+335,32.4,4.0,108.0,75.0,2350.0,16.8,81,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
+316,32.4,4.0,107.0,72.0,2290.0,17.0,80,3,honda accord,Normal,honda,accord,1,Normal,11,2
+231,32.8,4.0,78.0,52.0,1985.0,19.4,78,3,mazda glc deluxe,Normal,mazda,glc deluxe,1,Normal,12,2
+336,32.9,4.0,119.0,100.0,2615.0,14.8,81,3,datsun 200sx,Normal,datsun,200sx,1,Normal,7,2
+183,33.0,4.0,91.0,53.0,1795.0,17.4,76,3,honda civic,Normal,honda,civic,1,Normal,11,2
+332,33.0,4.0,105.0,74.0,2190.0,14.2,81,2,volkswagen jetta,Normal,volkswagen,jetta,1,Normal,26,2
+166,33.0,4.0,91.0,53.0,1795.0,17.5,75,3,honda civic cvcc,Normal,honda,civic cvcc,1,Normal,11,2
+205,33.5,4.0,85.00000000000001,70.0,1945.0,16.8,77,3,datsun f-10 hatchback,Normal,datsun,f-10 hatchback,1,Normal,7,2
+291,33.5,4.0,151.0,90.0,2556.0,13.2,79,1,pontiac phoenix,Normal,pontiac,phoenix,1,Normal,20,2
+223,33.5,4.0,98.0,83.0,2075.0,15.9,77,1,dodge colt m/m,Normal,dodge,colt m/m,1,Normal,8,2
+334,33.7,4.0,107.0,75.0,2210.0,14.4,81,3,honda prelude,Normal,honda,prelude,1,Normal,11,2
+312,33.8,4.0,97.0,67.0,2145.0,18.0,80,3,subaru dl,Normal,subaru,dl,1,Normal,23,2
+347,34.0,4.0,112.0,88.0,2395.0,18.0,82,1,chevrolet cavalier 2-door,Normal,chevrolet,cavalier 2-door,1,Normal,5,2
+360,34.0,4.0,108.0,70.0,2245.0,16.9,82,3,toyota corolla,Normal,toyota,corolla,1,Normal,24,2
+328,34.1,4.0,91.0,68.0,1985.0,16.0,81,3,mazda glc 4,Normal,mazda,glc 4,1,Normal,12,2
+279,34.1,4.0,85.99999999999999,65.0,1975.0,15.2,79,3,maxda glc deluxe,Normal,mazda,glc deluxe,1,Normal,12,2
+284,34.2,4.0,105.0,70.0,2200.0,13.2,79,1,plymouth horizon,Normal,plymouth,horizon,1,Normal,19,2
+300,34.3,4.0,97.0,78.0,2188.0,15.8,80,2,audi 4000,Normal,audi,4000,1,Normal,1,2
+330,34.4,4.0,98.0,65.0,2045.0,16.2,81,1,ford escort 4w,Normal,ford,escort 4w,1,Normal,10,2
+333,34.5,4.0,100.0,78.0,2320.0,15.8,81,2,renault 18i,Normal,renault,18i,1,Normal,21,2
+285,34.5,4.0,105.0,70.0,2150.0,14.9,79,1,plymouth horizon tc3,Normal,plymouth,horizon tc3,1,Normal,19,2
+329,34.7,4.0,105.0,63.0,2215.0,14.9,81,1,plymouth horizon 4,Normal,plymouth,horizon 4,1,Normal,19,2
+46,35.0,4.0,72.0,69.0,1613.0,18.0,71,3,datsun 1200,Normal,datsun,1200,1,Normal,7,2
+314,35.0,4.0,122.0,88.0,2500.0,15.1,80,2,triumph tr7 coupe,Normal,triumph,tr7 coupe,1,Normal,25,2
+324,35.1,4.0,81.00000000000001,60.0,1760.0,16.1,81,3,honda civic 1300,Normal,honda,civic 1300,1,Normal,11,2
+280,35.7,4.0,98.0,80.0,1915.0,14.4,79,1,dodge colt hatchback custom,Normal,dodge,colt hatchback custom,1,Normal,8,2
+359,36.0,4.0,107.0,75.0,2205.0,14.5,82,3,honda accord,Normal,honda,accord,1,Normal,11,2
+357,36.0,4.0,98.0,70.0,2125.0,17.3,82,1,mercury lynx l,Normal,mercury,lynx l,1,Normal,14,2
+203,36.0,4.0,79.0,58.0,1825.0,18.6,77,2,renault 5 gtl,Normal,renault,5 gtl,1,Normal,21,2
+353,36.0,4.0,105.0,74.0,1980.0,15.3,82,2,volkswagen rabbit l,Normal,volkswagen,rabbit l,1,Normal,26,2
+358,36.0,4.0,120.0,88.0,2160.0,14.5,82,3,nissan stanza xe,Normal,nissan,stanza xe,1,Normal,15,2
+369,36.0,4.0,135.0,84.0,2370.0,13.0,82,1,dodge charger 2.2,Normal,dodge,charger 2.2,1,Normal,8,2
+230,36.1,4.0,98.0,66.0,1800.0,14.4,78,1,ford fiesta,Normal,ford,fiesta,1,Normal,10,2
+233,36.1,4.0,91.0,60.0,1800.0,16.4,78,3,honda civic cvcc,Normal,honda,civic cvcc,1,Normal,11,2
+308,36.4,5.0,121.0,67.0,2950.0,19.9,80,2,audi 5000s (diesel),Normal,audi,5000s (diesel),1,Normal,1,2
+303,37.0,4.0,119.0,92.0,2434.0,15.0,80,3,datsun 510 hatchback,Normal,datsun,510 hatchback,1,Normal,7,2
+326,37.0,4.0,85.00000000000001,65.0,1975.0,19.4,81,3,datsun 210 mpg,Normal,datsun,210 mpg,1,Normal,7,2
+354,37.0,4.0,91.0,68.0,2025.0,18.2,82,3,mazda glc custom l,Normal,mazda,glc custom l,1,Normal,12,2
+295,37.2,4.0,85.99999999999999,65.0,2019.0,16.4,80,3,datsun 310,Normal,datsun,310,1,Normal,7,2
+287,37.3,4.0,91.0,69.0,2130.0,14.7,79,2,fiat strada custom,Normal,fiat,strada custom,1,Normal,9,2
+327,37.7,4.0,88.99999999999999,61.99999999999999,2050.0,17.3,81,3,toyota tercel,Normal,toyota,tercel,1,Normal,24,2
+356,38.0,4.0,105.0,63.0,2125.0,14.7,82,1,plymouth horizon miser,Normal,plymouth,horizon miser,1,Normal,19,2
+363,38.0,4.0,91.0,67.0,1995.0,16.2,82,3,datsun 310 gx,Normal,datsun,310 gx,1,Normal,7,2
+365,38.0,6.0,262.0,85.0,3015.0,17.0,82,1,oldsmobile cutlass ciera (diesel),Normal,oldsmobile,cutlass ciera (diesel),1,Normal,16,2
+361,38.0,4.0,91.0,67.0,1965.0,15.0,82,3,honda civic,Normal,honda,civic,1,Normal,11,2
+293,38.1,4.0,88.99999999999999,60.0,1968.0,18.8,80,3,toyota corolla tercel,Normal,toyota,corolla tercel,1,Normal,24,2
+323,39.0,4.0,85.99999999999999,64.0,1875.0,16.4,81,1,plymouth champ,Normal,plymouth,champ,1,Normal,19,2
+322,39.1,4.0,79.0,58.0,1755.0,16.9,81,3,toyota starlet,Normal,toyota,starlet,1,Normal,24,2
+232,39.4,4.0,85.00000000000001,70.0,2070.0,18.6,78,3,datsun b210 gx,Normal,datsun,b210 gx,1,Normal,7,2
+306,40.8,4.0,85.00000000000001,65.0,2110.0,19.2,80,3,datsun 210,Normal,datsun,210,1,Normal,7,2
+311,40.9,4.0,85.00000000000001,58.0,1835.0,17.3,80,2,renault lecar deluxe,Normal,renault,lecar deluxe,1,Normal,21,2
+292,41.5,4.0,98.0,76.0,2144.0,14.7,80,2,vw rabbit,Normal,volkswagen,rabbit,1,Normal,26,2
+229,43.1,4.0,90.0,48.0,1985.0,21.5,78,2,volkswagen rabbit custom diesel,Normal,volkswagen,rabbit custom diesel,1,Normal,26,2
+307,44.3,4.0,90.0,48.0,2085.0,21.7,80,2,vw rabbit c (diesel),Normal,volkswagen,rabbit c (diesel),1,Normal,26,2
+310,44.6,4.0,91.0,67.0,1850.0,13.8,80,3,honda civic 1500 gl,Normal,honda,civic 1500 gl,1,Normal,11,2

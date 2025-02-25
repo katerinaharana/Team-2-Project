@@ -31,14 +31,7 @@
 
 # ## Import dataset and necessary libraries
 
-# In[ ]:
-
-
-get_ipython().system('pip install plotly')
-get_ipython().system('pip install -U nbformat==4.2.0')
-
-
-# In[92]:
+# In[1]:
 
 
 import pandas as pd
@@ -47,7 +40,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 
-# In[93]:
+# In[2]:
 
 
 import os 
@@ -55,7 +48,7 @@ nb_path = os.path.abspath('')
 file_path = os.path.join(nb_path, '../../data/mpg.data.csv')
 
 
-# In[94]:
+# In[3]:
 
 
 df = pd.read_csv(file_path)
@@ -64,13 +57,13 @@ df = pd.read_csv(file_path)
 # ## Overview & Basic info about the dataset
 # 
 
-# In[95]:
+# In[4]:
 
 
 df
 
 
-# In[96]:
+# In[5]:
 
 
 df.info()
@@ -83,19 +76,19 @@ df.info()
 
 # ### Delete unneeded columns
 
-# In[97]:
+# In[6]:
 
 
 df = df.drop(columns=['Unnamed: 9', 'Unnamed: 10', 'Unnamed: 11', 'Unnamed: 12'])
 
 
-# In[98]:
+# In[7]:
 
 
 df.head()
 
 
-# In[99]:
+# In[8]:
 
 
 df.nunique(axis=0)
@@ -103,7 +96,7 @@ df.nunique(axis=0)
 
 # ### Detect Missing Values & Duplicates
 
-# In[100]:
+# In[9]:
 
 
 missing_values = df.isnull().sum()
@@ -112,7 +105,7 @@ missing_values
 
 # - The feature "mpg" has 8 missing data and the feature "horsepower" has 6 missing data.
 
-# In[101]:
+# In[10]:
 
 
 # find total duplicate entries and drop them if any
@@ -125,7 +118,7 @@ df.shape
 
 # ### Descriptive statistics
 
-# In[102]:
+# In[11]:
 
 
 df.describe()
@@ -133,7 +126,7 @@ df.describe()
 
 # ### Range & count of values of the different columns in the dataset
 
-# In[103]:
+# In[12]:
 
 
 # print the range of the features
@@ -141,7 +134,7 @@ for i in df.columns[:8]:
     print(f"The range of the feature'{i}' is [{df[i].min()},{df[i].max()}]")
 
 
-# In[104]:
+# In[13]:
 
 
 # dic for percentages
@@ -174,7 +167,7 @@ for col in numerical_columns:
     print("\n" + "-"*40 + "\n")
 
 
-# In[105]:
+# In[14]:
 
 
 # percentages for each met value
@@ -216,7 +209,7 @@ for col, percentages in percentages_dict.items():
 # 
 # y axis: counts of each value
 
-# In[106]:
+# In[15]:
 
 
 sns.set_theme(style="whitegrid")
@@ -234,7 +227,7 @@ plt.show()
 
 # ### Scatterplots
 
-# In[107]:
+# In[16]:
 
 
 #MPG Trends Over the Years
@@ -246,7 +239,7 @@ plt.ylabel("MPG")
 plt.show()
 
 
-# In[108]:
+# In[17]:
 
 
 # columns
@@ -271,7 +264,7 @@ for col in columns:
 # + Robust to outliers
 # + Measures the direction - the strength of a relationship
 
-# In[109]:
+# In[18]:
 
 
 # spearman correlation
@@ -286,7 +279,7 @@ plt.show()
 
 # ### Pearson heatmap
 
-# In[110]:
+# In[19]:
 
 
 plt.figure(figsize=(10, 8))
@@ -300,7 +293,7 @@ plt.show()
 
 # ### Interactive plot for the 2 most highly correlated to mpg features
 
-# In[111]:
+# In[20]:
 
 
 # Create Interactive 3D Scatter Plot
@@ -334,7 +327,7 @@ fig.show()
 
 # ### Scatterplots
 
-# In[ ]:
+# In[21]:
 
 
 import plotly.express as px
@@ -353,7 +346,7 @@ for column in columns:
 
 # ### Boxplots
 
-# In[112]:
+# In[22]:
 
 
 # Loop through each column and plot a boxplot
@@ -365,7 +358,7 @@ for col in columns:
 
 # ### IQR method for outliers
 
-# In[113]:
+# In[23]:
 
 
 import numpy as np
@@ -400,7 +393,7 @@ outlier_list
 # 
 # 
 
-# In[114]:
+# In[24]:
 
 
 from collections import Counter
@@ -426,7 +419,7 @@ most_common_words
 
 # ### Brands
 
-# In[115]:
+# In[25]:
 
 
 # splitting last column, taking first token of 'car name' as a seperate column and the rest as the model of the car
@@ -435,7 +428,7 @@ df[['car brand', 'model']] = df['car name'].str.extract(r'^(\S+)\s*(.*)$')
 df['car brand'].unique()
 
 
-# In[116]:
+# In[26]:
 
 
 brand_mapping = {
@@ -461,7 +454,7 @@ car_brand_counts = df['car brand'].value_counts()
 car_brand_counts
 
 
-# In[117]:
+# In[27]:
 
 
 # histogram of cars by brand
@@ -476,7 +469,7 @@ plt.tight_layout()
 plt.show()
 
 
-# In[118]:
+# In[28]:
 
 
 # Filter the dataset to include only rows where 'mpg' is not missing
@@ -512,7 +505,7 @@ plt.show()
 # Volkswagen, Mazda, Datsun and Honda showing the highest average MPG values, while brands like Ford, Mercury, Buick, and Amc tend to have lower MPG values.
 # 
 
-# In[119]:
+# In[29]:
 
 
 # Descriptive statistics: Mean MPG by Origin
@@ -535,14 +528,14 @@ plt.show()
 
 # Origin 3 (Japan) likely corresponds to more fuel-efficient cars on average, while Origin 1 (USA) cars tend to have lower MPG. Origin 2 (Europe) lies in the between
 
-# In[120]:
+# In[30]:
 
 
 # saving to a new file 
 df.to_csv(os.path.join(nb_path, '../../data/df_eda.csv'), index=False)
 
 
-# In[ ]:
+# In[31]:
 
 
 get_ipython().system('jupyter nbconvert --to script D1.ipynb')
