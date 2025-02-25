@@ -28,11 +28,11 @@ We are using the  mpg.data Dataset, which consists of 406 instances with the fol
 
 # Deliverables
 
-**D1** Exloratory Data Analysis (EDA) (https://github.com/katerinaharana/Team-2-Project/blob/main/notebooks/deliverable-1/D1.ipynb)
+**D1:** Exloratory Data Analysis (EDA) (https://github.com/katerinaharana/Team-2-Project/blob/main/notebooks/deliverable-1/D1.ipynb)
 
-**D2** Data Preprocessing (https://github.com/katerinaharana/Team-2-Project/blob/main/notebooks/deliverable-2/D2.ipynb)
+**D2:** Data Preprocessing (https://github.com/katerinaharana/Team-2-Project/blob/main/notebooks/deliverable-2/D2.ipynb)
 
-**D3** Models and Evaluation (https://github.com/katerinaharana/Team-2-Project/tree/main/notebooks/deliverable-3)
+**D3:** Models and Evaluation (https://github.com/katerinaharana/Team-2-Project/tree/main/notebooks/deliverable-3)
 
 # Final Model Evaluation scores 
 
