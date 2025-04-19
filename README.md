@@ -84,10 +84,10 @@ Experimented with cluster-based and PCA-guided binning.
 
 Final classification used quantile-based binning, producing three balanced categories (Low, Medium, High fuel efficiency).
 
-🤖 D3: Modeling & Evaluation
+## D3: Modeling & Evaluation
 We trained and evaluated multiple classification models:
 
-## Ensemble Methods
+### Ensemble Methods
 Models Used:
 
 AdaBoost
@@ -120,7 +120,7 @@ Stacking and Random Forest were consistent but slightly lower.
 
 Boosting methods proved superior in reducing overfitting and increasing generalization.
 
-## Neural Networks
+### Neural Networks
 Implemented a deep feedforward neural net:
 
 Architecture: 4 hidden layers (64 → 32 → 16 → output)
